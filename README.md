@@ -14,6 +14,7 @@ project unless it helps the story.
 
 - [Editorial strategy](docs/editorial-strategy.md)
 - [Publishing workflow](docs/publishing-workflow.md)
+- [Lacey Pages setup runbook](docs/lacey-pages-setup.md)
 - [Content roadmap](docs/content-roadmap.md)
 - [Provenance map](docs/provenance-map.md)
 - [Draft template](docs/draft-template.md)
@@ -35,3 +36,8 @@ project unless it helps the story.
 4. Lacey reviews voice, clinical framing, and academic caution.
 5. Publish on GitHub Pages.
 6. Create LinkedIn, Instagram, and Facebook variants from the same source post.
+
+## Starter Templates
+
+- [Hugo GitHub Pages starter](templates/hugo-pages/) for Lacey's public blog
+  repository.
