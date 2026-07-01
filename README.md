@@ -39,5 +39,5 @@ project unless it helps the story.
 
 ## Starter Templates
 
-- [Jekyll GitHub Pages starter](templates/jekyll-pages/) for Lacey's public blog
+- [Hugo GitHub Pages starter](templates/hugo-pages/) for Lacey's public blog
   repository.

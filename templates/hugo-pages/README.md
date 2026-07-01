@@ -1,4 +1,4 @@
-# Jekyll Pages Starter
+# Hugo Pages Starter
 
 Copy these files into Lacey's public GitHub Pages repository.
 
@@ -10,7 +10,7 @@ Expected target:
 
 After copying:
 
-1. Update `_config.yml`.
+1. Update `hugo.toml`.
 2. Push to `main`.
 3. In GitHub repository Settings, set Pages source to GitHub Actions.
 4. Confirm the workflow deploys.

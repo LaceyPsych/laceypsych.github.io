@@ -1,0 +1,28 @@
+baseURL = 'https://example.github.io/'
+locale = 'en-US'
+title = "Lacey's Notes"
+timeZone = 'America/Los_Angeles'
+enableRobotsTXT = true
+
+[params]
+  description = 'Relatable, evidence-aware reflections on therapy concepts in daily life.'
+
+[params.author]
+  name = 'Lacey'
+  bio = 'Therapy-adjacent reflections for everyday personal and professional life.'
+
+[permalinks]
+  posts = '/posts/:slug/'
+
+[taxonomies]
+  tag = 'tags'
+  series = 'series'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false

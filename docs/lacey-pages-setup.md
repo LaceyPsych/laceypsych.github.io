@@ -4,7 +4,7 @@ Issue: #5
 
 ## Decision
 
-Use a dedicated GitHub Pages site for Lacey's public blog, built with Jekyll and
+Use a dedicated GitHub Pages site for Lacey's public blog, built with Hugo and
 deployed with GitHub Actions.
 
 Recommended public repo:
@@ -21,17 +21,21 @@ URL is the brand surface:
 https://<lacey-github-owner>.github.io/
 ```
 
-## Why Jekyll First
+## Why Hugo
 
-Jekyll is the lowest-friction starting point for a GitHub Pages blog:
+Hugo is the better fit for this project because the blog is intended to become a
+serious branded publication, not only a lightweight personal notes page:
 
 - Markdown posts map directly to the editorial workflow in this repo.
-- GitHub Pages has long-standing Jekyll support.
-- The site can stay mostly content-focused while the voice and cadence mature.
-- Migration to Hugo or Astro remains straightforward later if richer design or
-  interactive content becomes important.
+- Fast builds keep GitHub Actions deploys cheap and predictable.
+- Sections, taxonomies, tags, and series are first-class enough for a long-term
+  editorial archive.
+- The content model can grow into essays, resources, explainers, and future
+  simulator launch pages without changing platforms.
+- Hugo can be built with GitHub Actions and deployed to GitHub Pages without
+  committing generated `public/` output.
 
-Use the template in [templates/jekyll-pages](../templates/jekyll-pages/) as the
+Use the template in [templates/hugo-pages](../templates/hugo-pages/) as the
 starting point for the public blog repo.
 
 ## Repository Boundary
@@ -46,7 +50,7 @@ This outreach repo remains private/backstage editorial infrastructure:
 
 Lacey's Pages repo contains only public-ready site material:
 
-- `_posts/` Markdown posts;
+- `content/posts/` Markdown posts;
 - public pages such as About and Resources;
 - images/assets approved for publication;
 - site config and GitHub Actions workflow.
@@ -57,13 +61,13 @@ planning files into the public Pages repo.
 ## Setup Steps
 
 1. Create `<lacey-github-owner>.github.io` under Lacey's GitHub account.
-2. Copy the contents of `templates/jekyll-pages/` into that repo.
-3. Update `_config.yml`:
+2. Copy the contents of `templates/hugo-pages/` into that repo.
+3. Update `hugo.toml`:
    - `title`
-   - `description`
-   - `url`
-   - `author.name`
-   - `author.bio`
+   - `baseURL`
+   - `[params].description`
+   - `[params.author].name`
+   - `[params.author].bio`
    - social links
 4. Enable GitHub Pages:
    - repository Settings;
@@ -71,7 +75,7 @@ planning files into the public Pages repo.
    - Source: GitHub Actions.
 5. Push to `main` and confirm the Pages workflow deploys.
 6. Add a custom domain only after the default `github.io` URL works.
-7. Publish the first post by copying final Markdown into `_posts/`.
+7. Publish the first post by copying final Markdown into `content/posts/`.
 8. Add the published URL back to the matching issue in this repo.
 
 ## Custom Domain

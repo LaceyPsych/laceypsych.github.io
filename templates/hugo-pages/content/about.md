@@ -1,10 +1,6 @@
 ---
-layout: default
-title: About
-permalink: /about/
+title: "About"
 ---
-
-# About
 
 Lacey writes about therapy-adjacent ideas through everyday stories from work,
 relationships, and personal life.

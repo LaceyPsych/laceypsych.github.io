@@ -1,10 +1,6 @@
 ---
-layout: default
-title: Resources
-permalink: /resources/
+title: "Resources"
 ---
-
-# Resources
 
 This page can collect public books, papers, tools, and community resources that
 support the blog's themes.
