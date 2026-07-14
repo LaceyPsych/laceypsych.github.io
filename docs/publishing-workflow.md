@@ -3,19 +3,20 @@
 ## Recommendation
 
 Use GitHub Pages as the canonical publishing surface for Lacey's longform posts,
-and use this repo as the editorial planning, provenance, and task-tracking home.
+with `LaceyPsych/laceypsych.github.io` as both the public site repository and the
+consolidated public issue tracker.
 
 GitHub Pages can serve static files directly from a repository and can also run a
 build through GitHub Actions. GitHub's current docs recommend Actions for
 automation-heavy Pages sites, especially when the site needs a custom build
 process. For this outreach blog, the recommended setup is:
 
-- Lacey owns a user site repository named `<owner>.github.io`, or a project repo
-  with Pages enabled.
+- Lacey owns `LaceyPsych/laceypsych.github.io`.
 - The site uses Hugo as the static site generator.
 - Posts live as Markdown with front matter.
 - GitHub Actions builds and deploys the site.
-- This repo tracks ideas, source provenance, draft status, and social variants.
+- GitHub issues track ideas, source provenance, draft status, and social
+  variants.
 
 Sources checked on 2026-07-01:
 
@@ -28,19 +29,18 @@ Sources checked on 2026-07-01:
 - Pages sites are public on the internet, so drafts and sensitive notes should
   not be placed in a publishing repo unless they are meant to be public.
 
-## Why Not Put Everything In Lacey's Blog Repo?
+## Public/Private Boundary
 
-Keep this repo as the backstage system because it can contain:
+Keep public-ready planning in the Pages issue tracker:
 
-- issue backlog and editorial planning;
-- provenance notes from PsychSimulator and Psych-LLM-Wiki;
-- unpublished topic maps;
-- social copy variants;
-- product-launch sequencing;
-- review checklists.
+- blog ideas;
+- source/provenance anchors that are safe to publish;
+- draft status;
+- social copy variants.
 
-The public blog repo should contain only publishable posts, public assets, and
-site code.
+Do not copy private simulator fixtures, unpublished profile notes, clinical
+details, private source files, or internal product plans into the public Pages
+repo.
 
 ## Recommended Repo Layout For Lacey's Blog
 
@@ -84,8 +84,8 @@ Statuses:
 2. Attach concept and source IDs from `docs/provenance-map.md`.
 3. Draft from `docs/draft-template.md`.
 4. Review against the quality checklist in `docs/editorial-strategy.md`.
-5. Move the final Markdown into Lacey's Pages repo.
-6. Publish with GitHub Actions.
+5. Add the final Markdown to `content/posts/`.
+6. Publish by merging the PR into `main`.
 7. Add the live URL and social links back to the issue.
 
 ## Social Distribution
