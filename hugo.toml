@@ -1,0 +1,28 @@
+baseURL = 'https://lacey.life/'
+locale = 'en-US'
+title = "Lacey Psych"
+timeZone = 'America/Los_Angeles'
+enableRobotsTXT = true
+
+[params]
+  description = 'Psychology, therapy-adjacent reflection, and human architecture under pressure.'
+
+[params.author]
+  name = 'Lacey'
+  bio = 'Writing about psychology, therapy-adjacent ideas, relationships, work, pressure, and the systems that shape behavior.'
+
+[permalinks]
+  posts = '/posts/:slug/'
+
+[taxonomies]
+  tag = 'tags'
+  series = 'series'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false

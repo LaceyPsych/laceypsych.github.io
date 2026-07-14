@@ -4,21 +4,25 @@ Issue: #5
 
 ## Decision
 
-Use a dedicated GitHub Pages site for Lacey's public blog, built with Hugo and
-deployed with GitHub Actions.
+Use `LaceyPsych/laceypsych.github.io` as Lacey's public GitHub Pages site, built
+with Hugo and deployed with GitHub Actions.
 
-Recommended public repo:
+Public repo:
 
 ```text
-<lacey-github-owner>/<lacey-github-owner>.github.io
+https://github.com/LaceyPsych/laceypsych.github.io
 ```
 
-Use a project Pages repo only if Lacey already has a user site and wants the blog
-under a subpath. A user site is cleaner for personal branding because the default
-URL is the brand surface:
+Default Pages URL:
 
 ```text
-https://<lacey-github-owner>.github.io/
+https://laceypsych.github.io/
+```
+
+Canonical public domain:
+
+```text
+https://lacey.life/
 ```
 
 ## Why Hugo
@@ -35,20 +39,13 @@ serious branded publication, not only a lightweight personal notes page:
 - Hugo can be built with GitHub Actions and deployed to GitHub Pages without
   committing generated `public/` output.
 
-Use the template in [templates/hugo-pages](../templates/hugo-pages/) as the
-starting point for the public blog repo.
+The starter template has been promoted to the repository root so GitHub Actions
+can build the site directly from `main`.
 
 ## Repository Boundary
 
-This outreach repo remains private/backstage editorial infrastructure:
-
-- roadmap and issue backlog;
-- draft planning;
-- source/provenance notes;
-- social variants;
-- product sequencing.
-
-Lacey's Pages repo contains only public-ready site material:
+Lacey's Pages repo contains public-ready site material and the public editorial
+issue tracker:
 
 - `content/posts/` Markdown posts;
 - public pages such as About and Resources;
@@ -60,57 +57,48 @@ planning files into the public Pages repo.
 
 ## Setup Steps
 
-1. Create `<lacey-github-owner>.github.io` under Lacey's GitHub account.
-2. Copy the contents of `templates/hugo-pages/` into that repo.
-3. Update `hugo.toml`:
-   - `title`
-   - `baseURL`
-   - `[params].description`
-   - `[params.author].name`
-   - `[params.author].bio`
-   - social links
-4. Enable GitHub Pages:
+1. Keep `hugo.toml` pointed at `https://lacey.life/`.
+2. Keep `CNAME` set to `lacey.life`.
+3. Enable GitHub Pages:
    - repository Settings;
    - Pages;
    - Source: GitHub Actions.
-5. Push to `main` and confirm the Pages workflow deploys.
-6. Add a custom domain only after the default `github.io` URL works.
-7. Publish the first post by copying final Markdown into `content/posts/`.
-8. Add the published URL back to the matching issue in this repo.
+4. Merge publishing PRs into `main`.
+5. Confirm the Pages workflow deploys.
+6. Add the published URL back to the matching issue.
 
 ## Custom Domain
 
-If Lacey owns a domain, prefer:
+The target domain is `lacey.life`. If both apex and `www` are available, prefer
+serving the canonical public site at the apex and redirecting `www` to it, unless
+GitHub Pages DNS constraints make `www.lacey.life` the simpler first launch.
 
-```text
-www.<domain>
-```
-
-Use the apex domain only if DNS is managed carefully. Add the domain through
-GitHub repository Settings rather than relying only on a `CNAME` file.
+DNS should point `lacey.life` at GitHub Pages and redirect or alias
+`www.lacey.life` to the canonical apex. Add the custom domain through GitHub
+repository Settings rather than relying only on the `CNAME` file.
 
 ## First Publish Test
 
-Use the sample post in the starter template only to verify deployment. Replace
-it with the first reviewed outreach post before public launch.
+The first publish test is the post from
+`LaceyPsych/laceypsych.github.io#2`, "A Person Is an Architecture Under
+Pressure."
 
 Checklist:
 
 - [ ] Default Pages URL loads.
-- [ ] Home page lists the sample post.
+- [ ] Home page lists the first post.
 - [ ] Post page renders title, date, tags, and content.
 - [ ] About page renders.
 - [ ] Resources page renders.
 - [ ] RSS feed is generated.
 - [ ] No internal repo paths or private source notes are visible.
-- [ ] Issue #5 is updated with the live repo and URL.
+- [ ] Source issue is updated with the live URL.
 
 ## Remaining Decisions
 
-These require user/Lacey input before issue #5 can be closed:
+These require user/Lacey input before launch is complete:
 
-- Lacey's GitHub owner name.
-- Public blog repo URL.
-- Public display name and bio.
-- Custom domain, if any.
+- DNS records for `lacey.life`.
+- GitHub Pages custom domain verification.
+- Public display bio refinements.
 - Social profile URLs.
