@@ -91,7 +91,12 @@ A publishable post should pass this checklist:
 
 ## Release Cadence
 
-Start with one substantial post every two weeks for 12 weeks. Cross-post a
-shorter social variant the same week, then one follow-up prompt or carousel the
-next week. This creates a steady rhythm without forcing weekly longform writing
-before the voice is established.
+Publish one substantial post every week. Cross-post a shorter social variant the
+same week, then use comments, carousels, or short prompts as follow-up material
+without replacing the weekly longform rhythm.
+
+The weekly program is tracked in
+`docs/superpowers/specs/2026-07-03-lacey-blog-architecture-series.md` and grouped
+into six editorial arcs. The first 12 weeks should establish Lacey's voice around
+the "architecture under pressure" thesis before moving into the more sensitive
+trauma, parenting, and personal-memory arcs.
