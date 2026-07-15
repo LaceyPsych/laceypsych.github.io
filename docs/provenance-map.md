@@ -7,6 +7,7 @@ themes. It is an editorial aid, not a public taxonomy.
 
 | Public theme | Simulator / wiki root | Useful story frame | Source spine |
 |---|---|---|---|
+| A person is an architecture under pressure | `architecture-of-being-human`, `generated-outputs-model`, `psychological-access`, `constraint-architecture`, `context-activation` | A neutral "Can we talk tomorrow?" message wakes different internal states depending on trust, fatigue, scarcity, and repair history | `src-architecture-being-human`, `src-mischel-shoda-1995-caps`, `src-arnsten-2009-stress-prefrontal`, `src-mullainathan-shafir-2013-scarcity`, `src-bronfenbrenner-1979-ecological`, `src-masten-2001-resilience`, `src-mcewen-2007-stress-plasticity` |
 | Why the same person is calm at brunch and panicked in a status meeting | Context activation, CAPS if-then signatures | "I am not inconsistent; my contexts have different meanings." | `src-mischel-shoda-1995-caps`, `psychology-pipeline` |
 | The apology draft that became a novel | People-pleasing, relatedness, esteem, suppression | Slack/email repair spiral after perceived disapproval | `src-young-2003-schema-therapy`, `src-lazarus-folkman-1984-coping`, `src-gross-john-2003-erq` |
 | When "just make a decision" makes it harder | Decision style, risk aversion, uncertainty tolerance | Restaurant choice, job offer, budget, roadmap decision | `src-scott-bruce-1995-gdms`, DOSPERT/GDMS instrument graph |
