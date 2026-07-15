@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
     {{ with resources.Get "css/site.css" }}
       {{ $css := . | minify | fingerprint }}
       <link rel="stylesheet" href="{{ $css.RelPermalink }}">
@@ -14,19 +19,27 @@
     {{ end }}
   </head>
   <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
     <header class="site-header">
       <a class="site-title" href="{{ "/" | relURL }}">{{ site.Title }}</a>
       <nav aria-label="Primary">
         <a href="{{ "/posts/" | relURL }}">Posts</a>
-        <a href="{{ "/about/" | relURL }}">About</a>
+        <a href="{{ "/series/" | relURL }}">Series</a>
         <a href="{{ "/resources/" | relURL }}">Resources</a>
+        <a href="{{ "/about/" | relURL }}">About</a>
       </nav>
     </header>
-    <main class="site-main">
+    <main id="main-content" class="site-main">
       {{ block "main" . }}{{ end }}
     </main>
     <footer class="site-footer">
-      <p>{{ site.Params.description }}</p>
+      <div class="footer-grid">
+        <p>{{ site.Params.description }}</p>
+        <p class="site-boundary">Educational reflection only. This site is not therapy, diagnosis, treatment, or crisis care. If you are in immediate danger, contact local emergency services.</p>
+      </div>
+      {{ with site.Home.OutputFormats.Get "rss" }}
+        <p class="rss-link"><a href="{{ .Permalink }}">RSS</a></p>
+      {{ end }}
     </footer>
   </body>
 </html>
