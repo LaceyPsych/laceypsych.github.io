@@ -1,16 +1,59 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-
   {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ $latest := index $posts 0 }}
+  <section class="home-hero" aria-labelledby="home-title">
+    <p class="eyebrow">Human Architecture Theory</p>
+    <h1 id="home-title">{{ .Title }}</h1>
+    <div class="home-intro">
+      {{ .Content }}
+    </div>
+  </section>
+
   {{ if $posts }}
-    <section class="post-list" aria-label="Recent posts">
-      <h2>Recent Posts</h2>
-      {{ range first 10 $posts }}
+    <section class="latest-post" aria-labelledby="latest-post-title">
+      <p class="eyebrow">Latest essay</p>
+      <h2 id="latest-post-title"><a href="{{ $latest.RelPermalink }}">{{ $latest.Title }}</a></h2>
+      <p class="post-meta">{{ $latest.Date.Format "January 2, 2006" }} · {{ $latest.ReadingTime }} min read</p>
+      {{ with $latest.Params.summary }}<p class="deck">{{ . }}</p>{{ else }}{{ with $latest.Summary }}<p class="deck">{{ . }}</p>{{ end }}{{ end }}
+      <p><a class="text-action" href="{{ $latest.RelPermalink }}">Read the essay</a></p>
+    </section>
+  {{ end }}
+
+  <section class="start-here" aria-labelledby="start-here-title">
+    <h2 id="start-here-title">Start Here</h2>
+    <div class="topic-grid">
+      <a class="topic-card" href="{{ "/series/human-architecture-theory/" | relURL }}">
+        <span>Human Architecture Theory</span>
+        <small>Behavior, access, pressure, and change.</small>
+      </a>
+      <a class="topic-card" href="{{ "/resources/#context-personality-and-patterns" | relURL }}">
+        <span>Relationships and repair</span>
+        <small>How context, safety, and truth shape connection.</small>
+      </a>
+      <a class="topic-card" href="{{ "/resources/#constraint-scarcity-and-choice" | relURL }}">
+        <span>Work and pressure</span>
+        <small>Patterns people live through in systems and teams.</small>
+      </a>
+      <a class="topic-card" href="{{ "/resources/#understanding-stress-and-access" | relURL }}">
+        <span>Body, stress, and constraint</span>
+        <small>What becomes reachable when life gets tight.</small>
+      </a>
+    </div>
+  </section>
+
+  <section class="boundary-callout" aria-labelledby="boundary-title">
+    <h2 id="boundary-title">A Clear Boundary</h2>
+    <p>These essays are public education and reflection. They are not therapy, diagnosis, treatment, crisis support, or advice for a specific person.</p>
+  </section>
+
+  {{ if gt (len $posts) 1 }}
+    <section class="post-list" aria-labelledby="recent-posts-title">
+      <h2 id="recent-posts-title">Recent Posts</h2>
+      {{ range after 1 (first 10 $posts) }}
         <article class="post-summary">
           <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-          <p class="post-meta">{{ .Date.Format "January 2, 2006" }}</p>
-          {{ with .Summary }}<p>{{ . }}</p>{{ end }}
+          <p class="post-meta">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</p>
+          {{ with .Params.summary }}<p>{{ . }}</p>{{ else }}{{ with .Summary }}<p>{{ . }}</p>{{ end }}{{ end }}
         </article>
       {{ end }}
     </section>

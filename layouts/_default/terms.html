@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+  </header>
+
+  {{ if .Data.Terms }}
+    <section class="term-list" aria-label="{{ .Title }}">
+      {{ range .Data.Terms.ByCount }}
+        <a class="term-card" href="{{ .Page.RelPermalink }}">
+          <span>{{ .Page.Title }}</span>
+          <small>{{ .Count }} {{ cond (eq .Count 1) "post" "posts" }}</small>
+        </a>
+      {{ end }}
+    </section>
+  {{ else }}
+    <p class="muted">No entries here yet.</p>
+  {{ end }}
+{{ end }}
