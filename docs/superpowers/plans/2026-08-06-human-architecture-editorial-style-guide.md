@@ -12,7 +12,7 @@ Source issue: https://github.com/LaceyPsych/laceypsych.github.io/issues/99
 - [x] Capture the style guide as a repo-local superpowers spec.
 - [x] Draft the next blog post using the roadmap and issue #99 style guide.
 - [x] Validate Hugo build.
-- [ ] Commit, push, and open a draft PR.
+- [x] Commit, push, and open a draft PR.
 
 ## Post Decision
 
