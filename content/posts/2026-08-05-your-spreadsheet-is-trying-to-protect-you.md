@@ -1,6 +1,6 @@
 ---
 title: "Your Spreadsheet Is Trying To Protect You"
-date: 2026-08-06
+date: 2026-08-05
 author: Lacey
 draft: false
 slug: "your-spreadsheet-is-trying-to-protect-you"
