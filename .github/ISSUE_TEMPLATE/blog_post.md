@@ -65,3 +65,31 @@ What should the reader understand or try after reading?
 - LinkedIn:
 - Instagram:
 - Facebook:
+
+## Analytics
+
+- Published URL:
+- Published date:
+- Arc / category:
+- 24-hour views:
+- 7-day views:
+- 30-day views:
+- Total views:
+- Unique visitors:
+- Followers before:
+- Followers after:
+- Net followers gained:
+- Comments:
+- Shares:
+- Backlinks:
+- Top traffic source:
+
+## Editorial Learning
+
+- Reader questions:
+- Reader confusion:
+- Resonant concept:
+- Style note:
+- Follow-up idea:
+- Style guide still intact: yes/no
+- Dashboard updated: yes/no

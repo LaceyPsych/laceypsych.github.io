@@ -28,6 +28,7 @@ The site is built with Hugo and deployed by GitHub Actions.
 
 - [Editorial strategy](docs/editorial-strategy.md)
 - [Editorial style guide](docs/editorial-style-guide.md)
+- [Blog analytics dashboard](docs/blog-analytics-dashboard.md)
 - [Publishing workflow](docs/publishing-workflow.md)
 - [Lacey Pages setup runbook](docs/lacey-pages-setup.md)
 - [Content roadmap](docs/content-roadmap.md)
@@ -51,6 +52,8 @@ The site is built with Hugo and deployed by GitHub Actions.
 4. Lacey reviews voice, GSP fidelity, clinical framing, and academic caution.
 5. Publish one longform post per week through a pull request.
 6. Create LinkedIn, Instagram, and Facebook variants from the same source post.
+7. Update the blog issue and analytics dashboard after 24 hours, 7 days, and 30
+   days.
 
 ## Site Layout
 
