@@ -30,7 +30,7 @@ Suggested cadence:
 
 | Metric | Current Total | Notes |
 |---|---:|---|
-| Published Posts | 4 | Counted from `content/posts/` on 2026-08-21. |
+| Published Posts | 5 | Counted from `content/posts/` on 2026-08-21. |
 | Total Views | TBD | Requires analytics source. |
 | Total Unique Visitors | TBD | Requires analytics source. |
 | Current Followers | TBD | Requires platform-specific source. |
@@ -52,15 +52,17 @@ Suggested cadence:
 | # | Blog Title | Arc / Category | Published | 24-Hour Views | 7-Day Views | 30-Day Views | Total Views | Followers Gained | Comments | Shares | Backlinks | Status |
 |---:|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | 01 | A Person Is an Architecture Under Pressure | Theory Core | 2026-07-14 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
-| 02 | The Apology Draft That Became a Dissertation | Love, Safety, and Repair | 2026-07-26 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
-| 03 | Your Spreadsheet Is Trying To Protect You | Access and Dysregulation | 2026-08-05 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
-| 04 | Behavior Is the Smoke, Not the Fire | Theory Core | 2026-08-12 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
+| 02 | Behavior Is the Smoke, Not the Fire | Theory Core | 2026-08-12 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
+| 03 | A Person Is What They Can Access While Afraid | Theory Core | 2026-08-21 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
+| 04 | The Apology Draft That Became a Dissertation | Love, Safety, and Repair | 2026-07-26 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
+| 05 | Your Spreadsheet Is Trying To Protect You | Access and Dysregulation | 2026-08-05 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
 
 ## Editorial Style Compliance
 
 | Blog Title | One Primary GSP Concept | GSP Pathway Visible | Accountability Preserved | Public Safety Clear | Editorial Status | Notes |
 |---|---|---|---|---|---|---|
 | A Person Is an Architecture Under Pressure | Yes | Yes | Yes | Yes | Aligned | Broad opening essay; Psychological Architecture remains construct-level language. |
+| A Person Is What They Can Access While Afraid | Yes | Yes | Yes | Yes | Aligned | Primary concept is Access; threat and body-brain state are framed as changing reachability, not revealing a true self. |
 | The Apology Draft That Became a Dissertation | Yes | Yes | Yes | Yes | Aligned | Relatedness, schemas, regulation, and access are located inside GSP. |
 | Your Spreadsheet Is Trying To Protect You | Yes | Yes | Yes | Yes | Aligned | Appraisal, safety need, control-seeking, feedback, and Psychological Architecture are explicit. |
 | Behavior Is the Smoke, Not the Fire | Yes | Yes | Yes | Yes | Aligned | Generated-output thesis is the central concept. |
@@ -129,7 +131,7 @@ platforms after platform posts and URLs are available.
 
 | Arc / Category | Published Posts | Total Views | Average Views | Followers Gained | Strongest Post |
 |---|---:|---:|---:|---:|---|
-| Theory Core | 2 | TBD | TBD | TBD | TBD |
+| Theory Core | 3 | TBD | TBD | TBD | TBD |
 | Access and Dysregulation | 1 | TBD | TBD | TBD | TBD |
 | Love, Safety, and Repair | 1 | TBD | TBD | TBD | TBD |
 | Parenting and Development | 0 | TBD | TBD | TBD | TBD |
