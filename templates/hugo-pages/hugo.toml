@@ -11,6 +11,9 @@ enableRobotsTXT = true
   name = 'Lacey'
   bio = 'Therapy-adjacent reflections for everyday personal and professional life.'
 
+[params.analytics]
+  goatcounter = ''
+
 [permalinks]
   posts = '/posts/:slug/'
 

@@ -42,7 +42,10 @@ Suggested cadence:
 
 **Last Updated:** 2026-08-21
 
-**Reporting Period:** Not yet connected to analytics provider
+**Reporting Period:** Starts after GoatCounter deploy
+
+**Analytics Source:** GoatCounter, configured through
+`params.analytics.goatcounter` in `hugo.toml`
 
 ## Blog Performance
 
@@ -72,7 +75,8 @@ For every new published blog, add a row here before marking the issue complete.
 
 ## Traffic Sources
 
-Traffic-source metrics are not available until an analytics source is connected.
+Traffic-source metrics should be copied from GoatCounter after the site deploys
+with the analytics snippet.
 
 | Source | Views | Percentage | Most Successful Post | Notes |
 |---|---:|---:|---|---|
@@ -86,8 +90,8 @@ Traffic-source metrics are not available until an analytics source is connected.
 
 ## Social Performance
 
-Social metrics are not available until platform posts and source URLs are
-recorded.
+Social metrics are not collected by GoatCounter. Record them from the source
+platforms after platform posts and URLs are available.
 
 | Blog | Platform | Post URL | Impressions | Clicks | Reactions | Comments | Shares | Followers Gained |
 |---|---|---|---:|---:|---:|---:|---:|---:|
