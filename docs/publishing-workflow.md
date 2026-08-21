@@ -87,6 +87,9 @@ Statuses:
 5. Add the final Markdown to `content/posts/`.
 6. Publish by merging the PR into `main`.
 7. Add the live URL and social links back to the issue.
+8. Update post analytics in the issue after 24 hours, 7 days, and 30 days.
+9. Copy summary metrics and editorial learnings into
+   `docs/blog-analytics-dashboard.md`.
 
 ## Social Distribution
 
@@ -98,6 +101,27 @@ For each longform post, create:
 
 Do not post the exact same copy everywhere. Keep the same concept and example,
 but tune the opening and call to conversation for the platform.
+
+## Analytics and Editorial Learning
+
+Use `docs/blog-analytics-dashboard.md` as the rollup for published-post
+performance.
+
+Update the individual blog issue first, then copy summary metrics into the
+dashboard. Keep the dashboard aligned with `docs/editorial-style-guide.md`:
+analytics can guide presentation, sequencing, distribution, and accessibility,
+but it should not distort Generative Systems Psychology concepts or weaken
+accountability, public safety, or theoretical integrity.
+
+Required checkpoints:
+
+- 24-hour metrics after publication;
+- 7-day metrics;
+- 30-day metrics;
+- follower changes;
+- social performance;
+- reader feedback and repeated questions;
+- editorial-style compliance for the post.
 
 ## Governance Notes
 

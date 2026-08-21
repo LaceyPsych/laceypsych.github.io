@@ -11,6 +11,9 @@ enableRobotsTXT = true
   name = 'Lacey'
   bio = 'Writing about psychology, therapy-adjacent ideas, relationships, work, pressure, and the systems that shape behavior.'
 
+[params.analytics]
+  goatcounter = "https://laceypsych.goatcounter.com/count"
+
 [permalinks]
   posts = '/posts/:slug/'
 
