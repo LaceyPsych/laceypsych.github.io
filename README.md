@@ -27,6 +27,7 @@ The site is built with Hugo and deployed by GitHub Actions.
 ## Operating Docs
 
 - [Editorial strategy](docs/editorial-strategy.md)
+- [Editorial style guide](docs/editorial-style-guide.md)
 - [Publishing workflow](docs/publishing-workflow.md)
 - [Lacey Pages setup runbook](docs/lacey-pages-setup.md)
 - [Content roadmap](docs/content-roadmap.md)
@@ -45,8 +46,9 @@ The site is built with Hugo and deployed by GitHub Actions.
 
 1. Open a GitHub issue for each post idea using the blog post issue template.
 2. Prioritize existing Lacey-authored issues before migrated outreach backlog.
-3. Build the outline from the content roadmap and provenance map.
-4. Lacey reviews voice, clinical framing, and academic caution.
+3. Build the outline from the content roadmap, provenance map, and editorial
+   style guide.
+4. Lacey reviews voice, GSP fidelity, clinical framing, and academic caution.
 5. Publish one longform post per week through a pull request.
 6. Create LinkedIn, Instagram, and Facebook variants from the same source post.
 

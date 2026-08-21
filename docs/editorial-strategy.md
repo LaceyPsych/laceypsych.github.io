@@ -2,10 +2,11 @@
 
 ## Positioning
 
-The series should make psychological concepts feel like something readers have
-already lived through: the unanswered Slack message, the over-explained apology,
-the 11 p.m. cart review, the "I'm fine" that means three different things, the
-meeting where one person wants certainty and another wants permission.
+The Generative Systems Psychology series should make psychological concepts feel
+like something readers have already lived through: the unanswered Slack message,
+the over-explained apology, the 11 p.m. cart review, the "I'm fine" that means
+three different things, the meeting where one person wants certainty and another
+wants permission.
 
 Lacey's brand should become:
 
@@ -41,12 +42,15 @@ Secondary readers:
 Each post should give readers three things:
 
 1. A story they recognize.
-2. A concept that names the pattern without shaming the person.
+2. One Generative Systems Psychology concept that names the pattern without
+   shaming the person.
 3. One small experiment they can try in real life.
 
 ## Voice Rules
 
 - Start with a scene, not a definition.
+- Locate the concept inside Generative Systems Psychology before shifting into
+  established research.
 - Use humor from recognition, not ridicule.
 - Prefer "this pattern can happen when..." over "you are..."
 - Say what a concept is useful for and what it cannot prove.
@@ -81,7 +85,10 @@ Each post should give readers three things:
 A publishable post should pass this checklist:
 
 - The opening scene is specific enough to feel lived-in.
-- The psychology concept is explained in plain language.
+- One primary Generative Systems Psychology concept is explained in plain
+  language.
+- The relevant generated-output pathway is visible.
+- Accountability remains intact; understanding is not presented as excusing.
 - Claims map back to a reviewed source, wiki concept, or simulator construct.
 - The post avoids diagnosis, therapeutic advice beyond general education, and
   unsupported certainty.
@@ -94,6 +101,8 @@ A publishable post should pass this checklist:
 Publish one substantial post every week. Cross-post a shorter social variant the
 same week, then use comments, carousels, or short prompts as follow-up material
 without replacing the weekly longform rhythm.
+
+The canonical post-level standard lives in `docs/editorial-style-guide.md`.
 
 The weekly program is tracked in
 `docs/superpowers/specs/2026-07-03-lacey-blog-architecture-series.md` and grouped

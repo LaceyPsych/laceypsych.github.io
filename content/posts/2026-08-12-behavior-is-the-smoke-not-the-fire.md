@@ -7,7 +7,7 @@ slug: "behavior-is-the-smoke-not-the-fire"
 tags: ["generative systems psychology", "behavior", "personality", "context", "generated outputs"]
 series: ["Generative Systems Psychology"]
 summary: "The same visible behavior can come from different inner systems. Behavior matters, but it is the output, not the whole person."
-description: "A public reflection on generated outputs, psychological engines, causal trace logic, and why the same behavior can have different meanings depending on the architecture that produced it."
+description: "A public reflection on generated outputs, psychological engines, causal trace logic, and why the same behavior can have different meanings depending on the Psychological Architecture and context that produced it."
 source_issue: "https://github.com/LaceyPsych/laceypsych.github.io/issues/24"
 source_ids:
   - src-mischel-shoda-1995-caps
@@ -76,6 +76,10 @@ This is the next Generative Systems Psychology idea I want to name plainly:
 
 **Behavior is a generated output. It is not the generator.**
 
+Within Generative Systems Psychology, that means behavior is produced through
+interaction among Psychological Architecture, body-brain state, appraisal,
+needs, access, context, constraint, coping, and feedback.
+
 That does not make behavior unimportant.
 
 Behavior is how we affect one another. Behavior can repair, harm, protect,
@@ -127,8 +131,8 @@ A yes may be generosity.
 
 It may be self-abandonment wearing a cardigan.
 
-This is why Generative Systems Psychology does not treat behavior as a final answer.
-It treats behavior as an output to trace.
+This is why Generative Systems Psychology does not treat behavior as a final
+answer. It treats behavior as an output to trace.
 
 What was built?
 
@@ -179,9 +183,9 @@ If conflict happens in private, they may finally tell the truth.
 
 That does not mean the person has no character.
 
-It means the person has an architecture.
+It means the person has a Psychological Architecture.
 
-Architecture has patterns.
+Psychological Architecture has patterns.
 
 It also has conditions.
 
@@ -210,8 +214,8 @@ Do not confuse the smoke for the fire.
 
 ## Causal Trace Logic
 
-In Generative Systems Psychology language, causal trace logic means we do not stop at the
-surface output.
+In Generative Systems Psychology language, causal trace logic means we do not
+stop at the surface output.
 
 We trace backward carefully.
 

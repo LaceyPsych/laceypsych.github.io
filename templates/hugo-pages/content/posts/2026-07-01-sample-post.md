@@ -5,6 +5,8 @@ draft: false
 tags: ["sample", "generative systems psychology"]
 series: ["Generative Systems Psychology"]
 slug: "sample-post"
+source_ids: []
+graph_anchors: []
 ---
 
 This sample post verifies that GitHub Pages renders Hugo posts correctly.

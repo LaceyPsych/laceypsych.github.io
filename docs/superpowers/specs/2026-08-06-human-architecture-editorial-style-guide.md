@@ -4,6 +4,12 @@ Date: 2026-08-06
 
 Source issue: https://github.com/LaceyPsych/laceypsych.github.io/issues/99
 
+Superseded by:
+`docs/superpowers/specs/2026-08-21-gsp-editorial-style-guide-v2.md`
+
+Canonical current guide:
+`docs/editorial-style-guide.md`
+
 ## Goal
 
 Capture the Generative Systems Psychology editorial style guide from issue #99 as a

@@ -88,6 +88,10 @@ I want to begin with a different idea:
 
 **A person is an architecture under pressure.**
 
+In Generative Systems Psychology, this is a way of talking about Psychological
+Architecture: what has been built into a person over time, and what becomes
+reachable when context puts pressure on the system.
+
 That means a person is not one fixed little statue walking around the world.
 
 A person is more like a house with many rooms, many wires, old weather damage, new repairs, a few mystery switches, and one drawer everyone is afraid to open because it contains batteries, receipts, and emotional history.
@@ -140,7 +144,11 @@ Here is the simplest map I know:
 
 That is the whole beginning.
 
-What was built is the person's architecture.
+In GSP language, the visible response is a generated output. The output emerges
+through what was built, what the body and mind can access in that state, and
+what the surrounding constraints make possible or costly.
+
+What was built is the person's Psychological Architecture.
 
 This includes temperament, memory, attachment, habits, values, needs, body history, culture, family rules, old disappointments, old repairs, and the beliefs that formed after repeated experience.
 
