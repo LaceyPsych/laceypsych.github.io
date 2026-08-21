@@ -5,7 +5,7 @@ timeZone = 'America/Los_Angeles'
 enableRobotsTXT = true
 
 [params]
-  description = 'Psychology, therapy-adjacent reflection, and human architecture under pressure.'
+  description = 'Psychology, therapy-adjacent reflection, and generative systems under pressure.'
 
 [params.author]
   name = 'Lacey'

@@ -2,7 +2,8 @@
 title: "Sample Post"
 date: 2026-07-01
 draft: false
-tags: ["sample"]
+tags: ["sample", "generative systems psychology"]
+series: ["Generative Systems Psychology"]
 slug: "sample-post"
 ---
 

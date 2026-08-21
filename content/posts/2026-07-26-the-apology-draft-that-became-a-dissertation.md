@@ -5,7 +5,7 @@ author: Lacey
 draft: false
 slug: "the-apology-draft-that-became-a-dissertation"
 tags: ["apology", "relationships", "schemas", "emotion regulation", "needs"]
-series: ["Human Architecture Theory"]
+series: ["Generative Systems Psychology"]
 summary: "Sometimes the overlong apology is not about the typo. It is about a need for connection getting loud under pressure."
 description: "A public reflection on over-explaining, apology drafts, relatedness, approval seeking, schemas, and expressive suppression."
 source_issue: "issue-02"

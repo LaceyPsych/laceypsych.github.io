@@ -4,8 +4,8 @@ date: 2026-08-05
 author: Lacey
 draft: false
 slug: "your-spreadsheet-is-trying-to-protect-you"
-tags: ["control", "coping", "stress", "planning", "human architecture"]
-series: ["Human Architecture Theory"]
+tags: ["control", "coping", "stress", "planning", "generative systems psychology"]
+series: ["Generative Systems Psychology"]
 summary: "Planning can be a tool, a comfort, or a cage. The difference often lives in what the spreadsheet is trying to protect."
 description: "A public reflection on control-seeking coping, threat appraisal, safety needs, and the difference between useful planning and ritualized control."
 source_issue: "https://github.com/LaceyPsych/laceypsych.github.io/issues/99"
@@ -180,7 +180,7 @@ interviewed, fingerprinted, and assigned a backup charger.
 
 ## The Need Underneath May Be Safety
 
-In Human Architecture language, a behavior often points toward a need, a
+In Generative Systems Psychology language, a behavior often points toward a need, a
 constraint, and a history of what has worked before.
 
 Control-seeking can be one way the system tries to protect the need for safety.

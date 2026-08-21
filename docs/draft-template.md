@@ -6,7 +6,8 @@ title: ""
 date: YYYY-MM-DD
 author: Lacey
 summary: ""
-tags: []
+tags: ["generative systems psychology"]
+series: ["Generative Systems Psychology"]
 status: draft
 source_ids: []
 ---

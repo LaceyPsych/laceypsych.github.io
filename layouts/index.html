@@ -2,7 +2,7 @@
   {{ $posts := where site.RegularPages "Section" "posts" }}
   {{ $latest := index $posts 0 }}
   <section class="home-hero" aria-labelledby="home-title">
-    <p class="eyebrow">Human Architecture Theory</p>
+    <p class="eyebrow">Generative Systems Psychology</p>
     <h1 id="home-title">{{ .Title }}</h1>
     <div class="home-intro">
       {{ .Content }}
@@ -22,8 +22,8 @@
   <section class="start-here" aria-labelledby="start-here-title">
     <h2 id="start-here-title">Start Here</h2>
     <div class="topic-grid">
-      <a class="topic-card" href="{{ "/series/human-architecture-theory/" | relURL }}">
-        <span>Human Architecture Theory</span>
+      <a class="topic-card" href="{{ "/series/generative-systems-psychology/" | relURL }}">
+        <span>Generative Systems Psychology</span>
         <small>Behavior, access, pressure, and change.</small>
       </a>
       <a class="topic-card" href="{{ "/resources/#context-personality-and-patterns" | relURL }}">

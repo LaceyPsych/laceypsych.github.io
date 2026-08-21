@@ -16,6 +16,7 @@ What ordinary personal or professional moment opens the post?
 
 ## Core Concept
 
+- Framework: Generative Systems Psychology
 - Primary concept:
 - Secondary concept:
 - Related simulator/wiki IDs:
