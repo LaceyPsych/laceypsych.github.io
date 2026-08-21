@@ -22,6 +22,16 @@ What ordinary personal or professional moment opens the post?
 - Related simulator/wiki IDs:
 - Source IDs:
 
+## GSP Pathway
+
+- Event/context:
+- Appraisal:
+- Need or threat activation:
+- Access or constraint:
+- Coping or regulation strategy:
+- Generated output:
+- Consequence and feedback:
+
 ## Reader Takeaway
 
 What should the reader understand or try after reading?
@@ -38,9 +48,15 @@ What should the reader understand or try after reading?
 ## Review Checklist
 
 - [ ] Relatable and concrete
+- [ ] Follows `docs/editorial-style-guide.md`
 - [ ] Lacey voice pass
+- [ ] One primary GSP concept
+- [ ] GSP pathway visible
+- [ ] Accountability preserved
+- [ ] Understanding is not presented as excusing
+- [ ] Avoids deterministic claims
 - [ ] Academic/provenance pass
-- [ ] No diagnostic overclaim
+- [ ] No diagnostic, treatment, or public-safety overclaim
 - [ ] Social variants drafted
 - [ ] Published URL added
 

@@ -97,8 +97,10 @@ The event is one thing.
 
 The appraisal is another.
 
-Appraisal is the mind and body's fast meaning-making process. Is this safe? Is
-this a threat? Do I have what I need? What could this cost me? What can I do?
+Within Generative Systems Psychology, appraisal is the fast meaning-making
+process through which a situation is assigned significance before behavior is
+generated. Is this safe? Is this a threat? Do I have what I need? What could
+this cost me? What can I do?
 
 Sometimes the appraisal is accurate. Some situations really do need careful
 planning. Money is real. Deadlines are real. Medical needs are real. Children's
@@ -108,8 +110,9 @@ But sometimes the body appraises uncertainty itself as danger.
 
 Not because the person is silly.
 
-Because somewhere in the architecture, uncertainty has become linked with harm,
-shame, abandonment, punishment, scarcity, or being left alone to carry too much.
+Because somewhere in the Psychological Architecture, uncertainty has become
+linked with harm, shame, abandonment, punishment, scarcity, or being left alone
+to carry too much.
 
 So the mind reaches for the thing that has helped before:
 
@@ -180,8 +183,8 @@ interviewed, fingerprinted, and assigned a backup charger.
 
 ## The Need Underneath May Be Safety
 
-In Generative Systems Psychology language, a behavior often points toward a need, a
-constraint, and a history of what has worked before.
+In Generative Systems Psychology language, a behavior often points toward a
+need, a constraint, and a history of what has worked before.
 
 Control-seeking can be one way the system tries to protect the need for safety.
 
@@ -218,7 +221,7 @@ If we ask, "What is this control protecting?" we might find the door.
 
 ## The Spreadsheet Also Gives Feedback
 
-Behavior does not just come out of the architecture.
+Behavior does not just come out of the Psychological Architecture.
 
 Behavior also feeds back into it.
 
