@@ -105,3 +105,8 @@ Season 3: "Patterns We Can Simulate Responsibly"
 - "Not a diagnosis, a lens": public-safe concept explanation.
 - "Before you reply": work communication reflection prompt.
 - "The unsexy skill": small regulation practice that actually helps.
+
+## Future Expansion Add-ons
+
+- [Access, Dysregulation & Actualization add-ons](access-dysregulation-actualization-addons.md)
+  imports workbook rows 71-80 from issue #98 as future blog planning issues.
