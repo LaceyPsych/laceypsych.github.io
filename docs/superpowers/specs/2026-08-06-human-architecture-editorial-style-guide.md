@@ -1,4 +1,4 @@
-# Human Architecture Editorial Style Guide Spec
+# Generative Systems Psychology Editorial Style Guide Spec
 
 Date: 2026-08-06
 
@@ -6,12 +6,12 @@ Source issue: https://github.com/LaceyPsych/laceypsych.github.io/issues/99
 
 ## Goal
 
-Capture the Human Architecture Theory editorial style guide from issue #99 as a
+Capture the Generative Systems Psychology editorial style guide from issue #99 as a
 repo-local publishing standard, then apply it to the next public blog post in
-the Human Architecture Theory series.
+the Generative Systems Psychology series.
 
 The style guide should help future drafts remain readable to a general audience
-while staying faithful to the underlying Human Architecture Theory terms,
+while staying faithful to the underlying Generative Systems Psychology terms,
 privacy boundaries, and accountability posture.
 
 ## Editorial Standard
@@ -22,9 +22,9 @@ teach the whole theory at once.
 The public blog is the entrance. The LLM Wiki and source graph remain the source
 of truth. If narrative convenience and theory conflict, theory wins.
 
-Use Human Architecture terms consistently:
+Use Generative Systems Psychology terms consistently:
 
-- Architecture
+- Psychological Architecture
 - Access
 - Context
 - Constraint
@@ -82,13 +82,13 @@ A typical post should follow this rhythm:
 
 1. Everyday experience.
 2. One human question.
-3. One Human Architecture concept.
+3. One Generative Systems Psychology concept.
 4. Examples that clarify the concept.
 5. A common misunderstanding.
 6. One practical reflection.
 
 End with one reflection, practical question, or observation. Do not close by
-summarizing the entire Human Architecture Theory.
+summarizing the entire Generative Systems Psychology framework.
 
 ## Applied Post
 

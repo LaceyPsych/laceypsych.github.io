@@ -8,7 +8,7 @@ https://laceypsych.github.io/
 ```
 
 The site publishes psychology and therapy-adjacent essays, starting with the
-Human Architecture Theory series. Posts are educational reflections, not
+Generative Systems Psychology series. Posts are educational reflections, not
 diagnosis, therapy, or treatment.
 
 The editorial issue tracker lives in this repository. The highest priority

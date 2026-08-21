@@ -1,4 +1,4 @@
-# Human Architecture Editorial Style Guide Execution Plan
+# Generative Systems Psychology Editorial Style Guide Execution Plan
 
 Source spec:
 `docs/superpowers/specs/2026-08-06-human-architecture-editorial-style-guide.md`

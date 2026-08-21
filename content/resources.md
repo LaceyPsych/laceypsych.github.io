@@ -2,7 +2,8 @@
 title: "Resources"
 ---
 
-Reader-safe sources and starting points for the blog's recurring themes.
+Reader-safe sources and starting points for the blog's Generative Systems
+Psychology themes.
 
 These are not homework assignments. They are public doors into the ideas behind
 the essays.

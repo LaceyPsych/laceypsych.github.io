@@ -104,7 +104,7 @@ Home page structure:
 2. Latest post feature:
    - title, date, summary, tags/series, primary link.
 3. Start here:
-   - Human Architecture Theory;
+   - Generative Systems Psychology;
    - Relationships and repair;
    - Work and pressure;
    - Parenting and attachment;
