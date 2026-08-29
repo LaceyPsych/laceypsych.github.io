@@ -12,6 +12,10 @@ source_issue: "https://github.com/LaceyPsych/laceypsych.github.io/issues/25"
 source_ids:
   - src-arnsten-2009-stress-prefrontal
   - src-mcewen-2007-stress-plasticity
+  - src-cao-2025-sleep-loss-executive-function
+  - src-warren-frier-2005-hypoglycaemia-cognition
+  - src-le-2020-menstrual-cycle-cognition
+  - src-tannenbaum-2012-medication-cognitive-impairment
   - src-mischel-shoda-1995-caps
   - src-lazarus-folkman-1984-coping
   - src-scherer-2001-appraisal
@@ -148,7 +152,8 @@ Either loves someone or does not love someone.
 
 But human systems are more conditional than that.
 
-A person can have a value in peace and lose access to it in threat.
+A person can have access to a value in peace and lose access to expressing or
+acting from that value under threat.
 
 A person can have language on the walk home and lose it in the room.
 
@@ -222,10 +227,13 @@ Physiological access may narrow: the body may be too activated, tired, hungry,
 hormonal, overloaded, or depleted to support the response the person would
 prefer.
 
-Hormonal state matters here too, not as a neat excuse or one-size-fits-all
-explanation, but as part of the body's context. Stress hormones, sleep,
-illness, cycles, medication changes, hunger, and accumulated load can all
-influence what is reachable in a given moment.
+Hormonal and physical state matter here too, not as a neat excuse or
+one-size-fits-all explanation, but as part of the body's context. Stress
+biology, sleep loss, illness or inflammation, low blood sugar, some medication
+effects, hormonal-cycle sensitivity, and accumulated load can all shape what
+is reachable in a given moment. The evidence is not equally strong or equally
+specific for every item on that list, so the claim should stay modest: these
+states can change the conditions under which access is happening.
 
 This does not mean the person is helpless.
 
@@ -528,6 +536,22 @@ boundaries, repair, and consequences still matter.
 - Bruce McEwen's
   [work on stress, adaptation, allostasis, and brain plasticity](https://doi.org/10.1152/physrev.00041.2006),
   which supports a body-brain view of stress and repeated load.
+- Yixuan Cao, Tian Xie, and Ning Ma's
+  [meta-analysis of sleep loss and executive function](https://doi.org/10.1016/j.smrv.2025.102163),
+  which supports the narrower claim that insufficient sleep can affect working
+  memory, inhibition, and cognitive flexibility.
+- Roderick Warren and Brian Frier's
+  [review of hypoglycaemia and cognition](https://doi.org/10.1111/j.1463-1326.2004.00421.x),
+  which supports treating low blood sugar as one possible body-state constraint
+  on complex cognitive performance.
+- Jessica Le, Natalie Thomas, and Caroline Gurvich's
+  [review of cognition, the menstrual cycle, and premenstrual disorders](https://doi.org/10.3390/brainsci10040198),
+  which supports careful language about hormonal-cycle sensitivity while noting
+  that cognitive findings are mixed and should not be overstated.
+- Cara Tannenbaum and colleagues'
+  [systematic review of medication-induced cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/22812538/),
+  which supports a cautious, non-diagnostic mention that some medication effects
+  can influence attention, memory, or information processing.
 - Walter Mischel and Yuichi Shoda's
   [Cognitive-Affective Personality System](https://doi.org/10.1037/0033-295X.102.2.246)
   work on stable "if-then" patterns across situations.
