@@ -1,0 +1,11 @@
+# Hugo build output. The Pages workflow builds this in CI; see README.
+/public/
+/resources/_gen/
+/.hugo_build.lock
+hugo_stats.json
+
+# Local editor and OS cruft
+.DS_Store
+.idea/
+.vscode/
+*.swp
