@@ -30,7 +30,7 @@ Suggested cadence:
 
 | Metric | Current Total | Notes |
 |---|---:|---|
-| Published Posts | 5 | Counted from `content/posts/` on 2026-08-21. |
+| Published Posts | 6 | Counted from `content/posts/` on 2026-09-09. |
 | Total Views | TBD | Requires analytics source. |
 | Total Unique Visitors | TBD | Requires analytics source. |
 | Current Followers | TBD | Requires platform-specific source. |
@@ -40,7 +40,7 @@ Suggested cadence:
 | Total Shares | TBD | Requires platform-specific source. |
 | Total Backlinks | TBD | Requires backlink/search source. |
 
-**Last Updated:** 2026-08-21
+**Last Updated:** 2026-09-09
 
 **Reporting Period:** Starts after GoatCounter deploy
 
@@ -54,8 +54,9 @@ Suggested cadence:
 | 01 | A Person Is an Architecture Under Pressure | Theory Core | 2026-07-14 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
 | 02 | Behavior Is the Smoke, Not the Fire | Theory Core | 2026-08-12 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
 | 03 | A Person Is What They Can Access While Afraid | Theory Core | 2026-08-21 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
-| 04 | The Apology Draft That Became a Dissertation | Love, Safety, and Repair | 2026-07-26 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
-| 05 | Your Spreadsheet Is Trying To Protect You | Access and Dysregulation | 2026-08-05 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
+| 04 | Needs Are Not a Staircase | Theory Core | 2026-09-09 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
+| 05 | The Apology Draft That Became a Dissertation | Love, Safety, and Repair | 2026-07-26 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
+| 06 | Your Spreadsheet Is Trying To Protect You | Access and Dysregulation | 2026-08-05 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Published |
 
 ## Editorial Style Compliance
 
@@ -66,6 +67,7 @@ Suggested cadence:
 | The Apology Draft That Became a Dissertation | Yes | Yes | Yes | Yes | Aligned | Relatedness, schemas, regulation, and access are located inside GSP. |
 | Your Spreadsheet Is Trying To Protect You | Yes | Yes | Yes | Yes | Aligned | Appraisal, safety need, control-seeking, feedback, and Psychological Architecture are explicit. |
 | Behavior Is the Smoke, Not the Fire | Yes | Yes | Yes | Yes | Aligned | Generated-output thesis is the central concept. |
+| Needs Are Not a Staircase | Yes | Yes | Yes | Yes | Aligned | Primary concept is Need Conflict; dominant need, secondary need, need accessibility, goal conflict, and constraint architecture stay secondary. Maslow is treated historically, not as a target. |
 
 For every new published blog, add a row here before marking the issue complete.
 
@@ -131,7 +133,7 @@ platforms after platform posts and URLs are available.
 
 | Arc / Category | Published Posts | Total Views | Average Views | Followers Gained | Strongest Post |
 |---|---:|---:|---:|---:|---|
-| Theory Core | 3 | TBD | TBD | TBD | TBD |
+| Theory Core | 4 | TBD | TBD | TBD | TBD |
 | Access and Dysregulation | 1 | TBD | TBD | TBD | TBD |
 | Love, Safety, and Repair | 1 | TBD | TBD | TBD | TBD |
 | Parenting and Development | 0 | TBD | TBD | TBD | TBD |
