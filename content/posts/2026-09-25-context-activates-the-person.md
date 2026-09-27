@@ -11,7 +11,6 @@ description: "A public reflection on Context Activation in Generative Systems Ps
 source_issue: "https://github.com/LaceyPsych/laceypsych.github.io/issues/27"
 source_ids:
   - src-mischel-shoda-1995-caps
-  - src-shoda-mischel-wright-1994-behavioral-signatures
 graph_anchors:
   - context-activation
   - domain-specific-selfhood
@@ -53,10 +52,10 @@ This is Context Activation, a concept in Generative Systems Psychology (GSP).
 
 ## What the Room Brings Into the System
 
-In GSP, behavior is a generated output of an interacting system. The person
-brings a Psychological Architecture shaped over time: memories, expectations,
-values, learned responses, needs, and ways of coping. Body-brain state and
-present circumstances matter too.
+In GSP, behavior is a generated output. The person brings a psychological
+system shaped over time: memories, expectations, values, learned responses,
+needs, and ways of coping. Body-brain state and present circumstances matter
+too.
 
 Context is part of that interaction. It includes more than the physical room:
 who is there, what has happened before, what a question seems to mean, what
@@ -101,8 +100,9 @@ through them.
 Personality research offers a useful point of contact. Walter Mischel and
 Yuichi Shoda's Cognitive-Affective Personality System, or CAPS, describes
 patterns of behavior that vary with the psychological features of situations.
-Related research found that a person's *if-then* pattern across situations can
-be relatively stable even when the behavior itself changes.
+In a field study, related research found relatively stable *if-then* patterns
+across psychologically distinct situations, even though behavior varied from
+one situation to another.
 
 That work does not make CAPS and GSP the same framework. It supports the
 narrower idea that patterned variation can tell us something about a person.
@@ -146,14 +146,12 @@ Her task, if she wants to change the pattern, is not to discover which Maya
 is genuine. It may be to notice the moment a simple invitation begins to feel
 like a test, and to find out what helps a direct answer become possible there.
 
-Maybe she says, "I need to check my energy before I commit." Maybe she
-practices a short refusal and tolerates the awkward pause after it. Maybe the
-family relationship needs a clearer boundary, because some rooms ask a person
-to spend too much energy defending a basic need.
+Recognizing the pattern may leave Maya more room to answer honestly next time,
+and may show her where a clearer boundary is needed.
 
-None of those moves guarantees a new response. Context can constrain; it does
-not dictate. People can practice, choose, repair, seek support, and change the
-conditions around them. Other people can change how they ask and respond.
+Context can constrain; it does not dictate. People can change their response,
+repair an impact, seek support, or change the conditions around them. Others
+can change how they ask and respond.
 
 ## Explanation Leaves Responsibility in Place
 
