@@ -26,6 +26,7 @@ By 7:18, Mara has reheated her coffee twice and had neither cup.
 
 Her daughter, Ada, is five. Her lunch is packed. Both shoes are by the door.
 One sock has disappeared somewhere between the bedroom and the kitchen.
+Ada woke coughing at 2 a.m.; after she settled, Mara lay awake listening.
 Mara has barely slept, and there are still breakfast dishes, a school arrival
 time, and work waiting after drop-off.
 
@@ -52,11 +53,11 @@ search. She has done it before.
 She loves her daughter. She knows Ada is young. She knows shouting will not
 make the missing sock appear.
 
-This morning, knowing those things did not make the response she wanted easy
-to reach.
+This morning, knowing those things did not make it easy to pause and respond
+as she wanted.
 
-What happened to Mara's access to patience, perspective, and the ability to
-choose her tone?
+What made it harder for Mara to bring together the attention, perspective,
+and restraint that support a patient response?
 
 Generative Systems Psychology (GSP) gives dysregulation a specific definition:
 
@@ -66,7 +67,7 @@ Generative Systems Psychology (GSP) gives dysregulation a specific definition:
 The question is not simply how strong an emotion was. It is what the person
 could reach and use while responding.
 
-## The Capacities Were Still There
+## Knowing and Responding
 
 Mara did not stop loving Ada between the first and second request. Her
 knowledge of what a five-year-old morning can be like did not vanish. She
@@ -74,12 +75,13 @@ could still pack a lunch, find a shoe, and get them out the door. From the
 outside, she might look like a parent who is functioning well enough, apart
 from one sharp sentence.
 
-But continuing to function does not mean every capacity remains equally
-accessible. Mara can complete tasks while finding it harder to pause, see the
-morning at Ada's pace, and bring a gentler response into the next ten seconds.
+But continuing to function does not mean she can coordinate every process a
+patient response calls for. Mara can complete tasks while finding it harder
+to pause, see the morning at Ada's pace, and shape a gentler response in the
+next ten seconds.
 
-**A capacity can still exist even when the system cannot effectively access
-it.**
+**Knowing how she wants to respond and being able to bring the supporting
+processes together in the moment are different things.**
 
 That is different from saying Mara was simply impatient, or that Ada made her
 impatient. Ada is a young child looking for a sock, changing focus, and wanting
@@ -199,10 +201,11 @@ that the same pattern is less likely to repeat?
 
 ## The Question After the Morning
 
-Mara could finish every task on her list and still have struggled to use
-patience in the moment it mattered. She could know how she wanted to respond
-and fail to reach that response. The child could understand none of the
-pressure and still feel the sharpness of the words.
+Mara could finish every task on her list and still have struggled to coordinate
+the attention and restraint behind a patient response. She could know how she
+wanted to respond and find it harder to put that response into practice. The
+child could understand none of the pressure and still feel the sharpness of
+the words.
 
 All of that belongs in one account.
 
