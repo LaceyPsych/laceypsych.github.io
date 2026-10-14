@@ -4,10 +4,10 @@ date: 2026-10-13
 author: Lacey
 draft: false
 slug: "dysregulation-is-disrupted-access"
-tags: ["generative systems psychology", "dysregulation", "access", "stress", "generated outputs"]
+tags: ["generative systems psychology", "dysregulation", "access", "parenting", "generated outputs"]
 series: ["Generative Systems Psychology"]
-summary: "Dysregulation can be quiet. A person may still have the words, judgment, or care they need while struggling to reach and use them under current conditions."
-description: "A public reflection on dysregulation as disrupted access in Generative Systems Psychology, and why visible emotion alone does not tell us what a person can use in a difficult moment."
+summary: "An exhausted mother can love her daughter, know how she wants to respond, and still struggle to reach that response. Dysregulation concerns disrupted access, not just visible emotion."
+description: "A public reflection on dysregulation as disrupted access in Generative Systems Psychology, told through an ordinary school morning while preserving the child's experience and the parent's responsibility."
 source_issue: "https://github.com/LaceyPsych/laceypsych.github.io/issues/108"
 source_ids:
   - src-arnsten-2009-stress-prefrontal
@@ -22,204 +22,206 @@ graph_anchors:
   - generated-outputs-model
 ---
 
-Leah has been staring at two train tickets for eleven minutes.
+By 7:18, Mara has reheated her coffee twice and had neither cup.
 
-One gets her home before dinner. The other costs less but arrives late enough
-to make the next morning difficult. She knows which one she needs. She knew it
-when she opened the page.
+Her daughter, Ada, is five. Her lunch is packed. Both shoes are by the door.
+One sock has disappeared somewhere between the bedroom and the kitchen.
+Mara has barely slept, and there are still breakfast dishes, a school arrival
+time, and work waiting after drop-off.
 
-Her phone lights up. A friend organizing the trip asks, "Which train works for
-you? I can book both now."
+Ada is halfway into her sweater when she remembers something she wants to tell
+her mother about a drawing. Mara wants to hear it. She also looks at the clock.
 
-Leah types, *The earlier one, please.* Then she looks again at the fares. She
-has slept badly for several nights, and the day has been a series of small
-decisions that would not stop arriving. She reads the same departure time
-three times. The sentence she typed suddenly feels too difficult to send.
+"Please get dressed," she says.
 
-She deletes it.
+Ada turns back to the sweater, then stops to look for the sock.
 
-> Whatever works for you is fine.
+"Come on, Ada."
 
-The message is polite. It is correctly spelled. She even adds a little train
-emoji. Anyone reading it would have good reason to think Leah is fine with
-either option.
+The words that come next are louder than Mara intended.
 
-She is not.
+> Can you PLEASE just get dressed? We're already late!
 
-Later, after the tickets are booked, she can explain exactly why the earlier
-train mattered. The facts did not appear overnight. The preference did not
-change. What changed was her ability to hold the options together, say what
-she needed, and use that knowledge in an answer.
+Ada looks down at the sweater in her hands. She goes quiet.
 
-What if we took that change seriously?
+Mara sees her face change. She regrets her tone almost as soon as she hears
+it. Ada was looking for a sock and trying to tell a story, not setting out to
+ruin the morning. On another day, Mara might have knelt beside her and helped
+search. She has done it before.
 
-Generative Systems Psychology (GSP) gives this a specific definition:
+She loves her daughter. She knows Ada is young. She knows shouting will not
+make the missing sock appear.
+
+This morning, knowing those things did not make the response she wanted easy
+to reach.
+
+What happened to Mara's access to patience, perspective, and the ability to
+choose her tone?
+
+Generative Systems Psychology (GSP) gives dysregulation a specific definition:
 
 > Dysregulation is a state in which one or more access systems are overwhelmed,
 > inhibited, distorted, captured, or unavailable.
 
-That is a broader claim than "someone had a big feeling." It is about what a
-person can reach and use while generating a response.
+The question is not simply how strong an emotion was. It is what the person
+could reach and use while responding.
 
-## The Quiet Version
+## The Capacities Were Still There
 
-The familiar picture of dysregulation is loud: panic, anger, tears, a slammed
-door. Those moments can involve disrupted access. Their volume alone does not
-tell us whether they do.
+Mara did not stop loving Ada between the first and second request. Her
+knowledge of what a five-year-old morning can be like did not vanish. She
+could still pack a lunch, find a shoe, and get them out the door. From the
+outside, she might look like a parent who is functioning well enough, apart
+from one sharp sentence.
 
-Someone might cry and still know what they want to say, consider another
-person's view, and choose how to respond. Someone else might speak evenly
-while their capacity to compare options or name a need has narrowed. Calm
-appearance is not proof of regulation. Visible distress is not proof of
-dysregulation.
-
-Leah's message illustrates why the distinction matters. She does not lose
-language altogether. She can produce a sentence. But she cannot use the
-sentence she needs. Her knowledge of the train times, her preference, and her
-care for her friend are still part of her. In that moment, bringing them into
-one usable answer has become difficult.
-
-This is not a diagnosis of Leah. One reluctant text, a tired afternoon, or a
-choice someone later regrets does not establish dysregulation. The fictional
-scene lets us examine what it would mean for access to be disrupted, rather
-than treating the visible response as a full account of the person.
+But continuing to function does not mean every capacity remains equally
+accessible. Mara can complete tasks while finding it harder to pause, see the
+morning at Ada's pace, and bring a gentler response into the next ten seconds.
 
 **A capacity can still exist even when the system cannot effectively access
 it.**
 
-That difference between *having* and *using* is the center of this essay.
+That is different from saying Mara was simply impatient, or that Ada made her
+impatient. Ada is a young child looking for a sock, changing focus, and wanting
+to share a story. Her behavior belongs to the scene; responsibility for
+Mara's tone does not belong to her.
 
-## Access Is More Than Remembering the Right Words
+Nor can we diagnose Mara's internal state from one sentence. Parents can be
+tired without being dysregulated. They can raise their voices for more than
+one reason. This fictional morning illustrates a *possible* GSP reading of
+disrupted access, not a claim that exhaustion always produces it.
 
-Earlier in this series, we looked at a person who lost access to a prepared
-response while afraid. Fear can do that. Dysregulation is wider than fear.
+## What Piled Up Before the Sentence
 
-A body carrying too little sleep, a mind holding several demands at once, an
-emotion that has become hard to organize, or pressure that has continued too
-long may all change access. None of those conditions automatically means a
-person is dysregulated. The question is what happens to the capacities they
-need in the situation.
+The school morning did not begin when Ada lost her sock.
 
-For Leah, sleep and accumulated demands are possible conditions. The late
-train is not an emergency. Yet the decision asks her to compare costs across
-time, keep a preference active while another person waits, and risk a small
-amount of inconvenience to that person. The friend may be entirely kind. Leah
-may still appraise one more decision as more than she can manage right then.
+Mara entered it after several interrupted nights. Each new task asked her to
+keep something in mind: the lunch, the school bag, the time, the workday, the
+sock still missing its partner. Ada's story arrived while Mara was trying to
+hold the rest of the list together.
 
-There are several kinds of access in this picture. Her body has to support
-attention and effort. She has to reach her own preference as something she is
-allowed to say. She has to hold the relevant facts long enough to choose and
-send the answer. These are examples of physiological, psychological, and
-executive access working together; they are not a complete inventory of a
-person's mind.
+The clock mattered. So did the work waiting after drop-off. Mara wanted to
+meet those obligations, and she wanted to be patient with her daughter. She
+also needed rest. Those needs did not fit neatly into the same minute.
 
-It is possible to remember the right words afterward and still have struggled
-to use them at the time. It is also possible to know what matters and be
-unable to coordinate that knowledge into a response. Dysregulation, in this
-GSP sense, concerns disruption in access or use, not a judgment that the
-capacity was never there.
+In GSP terms, several conditions may be interacting: body-brain state,
+immediate demands, appraisal of time pressure, competing needs, and what is
+accessible in the moment. Sleep loss can make attention and mental flexibility
+harder. Accumulated demands can leave less room to reorganize a response when
+something unexpected happens. Time pressure can make the fastest available
+sentence more likely to come out.
 
-## From Conditions to an Output
+None of that is a formula. Another parent, or Mara on another morning, might
+respond differently. Ada's ordinary behavior did not make her responsible
+for Mara's sharpness. The sentence came from a whole morning and the
+conditions Mara brought into it, not from a sock alone.
 
-GSP treats behavior as a generated output. A person's history, current
-body-brain state, appraisal, needs, context, access, and available responses
-interact. Dysregulation can change which parts of that system are usable. It
-does not supply a single predictable behavior.
+Earlier in this series, we looked at a person whose access narrowed while
+afraid. Fear is one route. Dysregulation is wider than fear, panic, anger, or
+visible overwhelm. A person may appear calm and productive while struggling
+to access important capacities. A person may cry or feel angry and still be
+able to reflect and choose a response. Neither volume nor appearance settles
+the question.
 
-One possible reading of Leah's afternoon goes like this:
+## The Response That Became Available
 
-> Several nights of poor sleep and a crowded day leave comparison harder. A
-> new decision arrives with someone waiting. Leah wants an early arrival and
-> wants to keep the booking moving. Holding the options, stating her need, and
-> tolerating a little friction have become hard to coordinate. "Whatever works
-> for you" ends the immediate demand. Her friend books the late train. The
-> relief is brief; the practical problem returns.
+Behavior, in GSP, is a generated output. Dysregulation can affect which
+capacities and responses are available while that output is being formed.
+It does not make one behavior inevitable.
 
-This is an illustrative pathway, not a fixed GSP algorithm. We cannot read
-Leah's inner state from one text, and another person in the same conditions
-might answer differently. The point is that a polished outward message can
-be generated while access to an important capacity is disrupted.
+One possible pathway through Mara's morning looks like this:
 
-Feedback matters too. Leah's friend has acted on her answer. Now there is a
-real ticket and a real cost to changing it. If Leah notices she is upset, she
-has more information about the gap between what she needed and what she could
-say. That information can help her repair the situation, but it does not
-undo the booking.
+> Interrupted sleep and repeated demands leave Mara depleted. The school
+> clock makes one more delay feel costly. She wants to get Ada to school and
+> wants to respond with care. Pausing, holding Ada's perspective, and finding
+> another way to ask become harder to coordinate. The sharp instruction comes
+> quickly. Ada goes quiet. Mara sees the effect and regrets it.
 
-GSP also distinguishes dysregulation from dysfunctional behavior. The first
-names a state of disrupted access. Dysfunctional behavior names an output that
-emerges when a person attempts to regulate, protect, escape, restore,
-discharge, or compensate from within that state. The distinction does not
-make every output during dysregulation dysfunctional. Nor does it tell us,
-from a single text, exactly why Leah chose those words.
+This is an illustration, not a fixed GSP algorithm or proof of Mara's state.
+It shows a difference between what Mara knows, what she can access in that
+minute, and what she can use in an actual response.
 
-## What Research Can and Cannot Tell Us
+GSP also separates dysregulation from dysfunctional behavior. Dysregulation
+names the disrupted-access state. Dysfunctional behavior is the output that
+emerges when the person attempts to regulate, protect, escape, restore,
+discharge, or compensate from within that disrupted access state. One does
+not prove the other: not every output during dysregulation is harmful, and
+a sharp sentence by itself cannot tell us what was happening inside Mara.
 
-There are narrower findings that make the access question worth asking.
-Research on stress and prefrontal function describes how stress exposure can
-interfere with cognitive abilities involved in working with information and
-controlling a response. A meta-analysis of sleep-loss studies found changes
-in performance on tasks involving working memory, inhibitory control, and
-cognitive flexibility, with effects that differed by task and measure.
+The feedback is visible, though. Ada goes quiet. Mara feels the gap between
+her intention and her impact. What happens next can reinforce the same
+pattern or create a chance to repair it.
 
-Those findings do not establish that Leah was dysregulated. They do not
-independently validate GSP's definition of dysregulation. They support a more
-modest point: body-brain conditions can affect the cognitive capacities a
-person uses. GSP asks how that possibility interacts with meaning, needs,
-context, and the output that follows.
+## What Research Can Support
 
-The research is also a reason to be careful with easy moral stories. "She knew
-better" may be true in the sense that Leah possessed the relevant knowledge.
-It does not answer whether she could bring that knowledge into use at the
-moment she replied.
+GSP's definition of dysregulation is its own theoretical synthesis. Research
+supports narrower parts of the picture. A meta-analysis of sleep-loss
+studies found changes in performance on tasks involving working memory,
+inhibitory control, and cognitive flexibility, with effects differing by
+task and measure. A separate synthesis of experimental sleep-loss research
+found effects on emotional functioning, though those effects also varied
+by outcome. Research on stress and prefrontal function describes how stress
+can interfere with higher-order cognitive abilities.
 
-## The Answer Still Has an Impact
+These findings do not tell us that Mara was dysregulated or that a particular
+parent will snap after poor sleep. They help explain why sleep and pressure
+are plausible conditions to consider when access becomes difficult. GSP then
+asks how those conditions interact with context, meaning, needs, and the
+response that follows.
 
-An explanation of Leah's access does not make her friend responsible for
-guessing what the text really meant. The friend asked a clear question and
-booked a ticket based on a clear answer. If Leah needs to change the plan, she
-can acknowledge the misleading answer and the inconvenience it caused.
+There is no research result in which a missing sock explains a human being.
 
-This is especially important when a generated output hurts someone. Disrupted
-access may help explain defensiveness, withdrawal, harsh words, or a promise
-that cannot be kept. It does not make those outputs harmless. People affected
-by them may need repair, boundaries, or protection. Understanding improves
-precision. It does not remove accountability.
+## Ada Is Still in the Room
 
-At the same time, accountability can become more useful when it asks a better
-question. "Why didn't you just do the obvious thing?" assumes the obvious
-thing was fully available. "What became difficult to access, and what was the
-impact?" makes room for both the person's conditions and the other person's
-experience.
+The explanation matters. Ada's experience matters too.
 
-None of this means choice disappears. Access can narrow without vanishing.
-People can respond differently, ask for time, seek support, repair an impact,
-or change some of the conditions around a recurring pattern. There are also
-limits they cannot change alone. GSP is describing influences on the next
-response, not promising a particular one.
+She heard her mother raise her voice. She went quiet. That impact does not
+disappear because Mara was exhausted or because Mara regretted it. Ada was
+not responsible for managing her mother's fatigue, moving at an adult pace,
+or finding the right way to prevent the sharp sentence.
 
-## What Was Still There?
+After drop-off, Mara remembers Ada looking down at the sweater. She can
+recognize that her daughter needed help with the morning, not blame for its
+speed. If Mara speaks with her later, a simple acknowledgment fits better
+than an explanation Ada must carry: "I spoke too sharply this morning. I'm
+sorry. That was my responsibility."
 
-The next time a reaction seems unlike a person's usual way of being, the
-visible emotion may be only part of the story. A quiet answer may deserve
-closer attention too.
+An apology may matter. It does not supply the missing sleep, remove the
+workday's demands, or make every future morning easy. If this keeps
+happening, Mara may need a clearer look at the conditions around those
+mornings, including demands she cannot change alone. Repair and a more
+workable situation are different kinds of work.
 
-What did the person still know or value? What could they reach at that moment?
-What could they actually use? What conditions made the gap wider or narrower?
+Understanding disrupted access does not erase the child's experience or
+remove the mother's responsibility. It makes the question more precise:
+what made a caring response harder to reach, and what needs to change so
+that the same pattern is less likely to repeat?
 
-Leah's earlier train was still the earlier train. Her preference was still
-hers. Her friend still paid for the late ticket. All three facts belong in the
-same account.
+## The Question After the Morning
 
-**What was present in the person, but difficult to bring into the response?**
+Mara could finish every task on her list and still have struggled to use
+patience in the moment it mattered. She could know how she wanted to respond
+and fail to reach that response. The child could understand none of the
+pressure and still feel the sharpness of the words.
+
+All of that belongs in one account.
+
+When a response surprises us, it can help to ask what the person still knew
+or valued, what became harder to access, and what the response did to someone
+else. We do not need to decide from one scene whether a person was
+dysregulated. We can take the conditions, the behavior, and its impact
+seriously together.
+
+**What was disrupted in the system that made this response more likely?**
 
 ## Boundary Note
 
 This essay is an educational reflection, not therapy, diagnosis, or
-treatment. Leah is fictional. A single behavior cannot establish a person's
-internal state. Disrupted access does not make harmful, coercive, abusive, or
-unsafe behavior acceptable; impact, protection, boundaries, repair, and
-consequences still matter.
+treatment. Mara and Ada are fictional. One incident cannot establish
+dysregulation or a child's experience beyond what the story shows.
+Disrupted access does not make harmful, coercive, abusive, or unsafe
+behavior acceptable; protection, boundaries, repair, and consequences
+still matter.
 
 ## Sources And Further Reading
 
@@ -232,3 +234,8 @@ consequences still matter.
   *Sleep Medicine Reviews*, 84, 102163. This meta-analysis reports
   task-dependent changes in working memory, inhibitory control, and cognitive
   flexibility following sleep loss.
+- Palmer, C. A., et al. (2024). [Sleep loss and emotion: A systematic review
+  and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/38127505/).
+  *Psychological Bulletin*, 150(4), 440–463. This synthesis reports varied
+  effects of experimental sleep loss on emotional functioning; it does not
+  predict any one parent's response.
