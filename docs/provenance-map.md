@@ -12,7 +12,7 @@ themes. It is an editorial aid, not a public taxonomy.
 | Needs are not a staircase | `need-conflict`, `dominant-need`, `secondary-need`, `need-accessibility`, `goal-conflict`, `constraint-architecture`, `context-activation`, `generated-outputs-model` | Theo accepts a promotion he genuinely wanted, then goes quiet for a week, because growth and recovery are both active, only one has language, and the constraint field makes refusal expensive | `src-maslow-1943-theory-human-motivation`, `src-bridgman-2019-maslow-pyramid`, `src-wahba-bridwell-1976-maslow-reconsidered`, `src-tay-diener-2011-needs-swb`, `src-deci-ryan-2000-sdt`, `src-emmons-king-1988-striving-conflict`, `src-kruglanski-2002-goal-systems`, `src-lazarus-folkman-1984-coping`, `src-scherer-2001-appraisal`, `src-mischel-shoda-1995-caps` |
 | Context activates the person | `context-activation`, `domain-specific-selfhood`, `context-dependent-contradiction`, `psychological-access`, `generated-outputs-model` | Maya can pause and answer plainly with trusted colleagues, then overexplains and agrees to a family plan she does not want; each setting changes what feels costly and accessible | `src-mischel-shoda-1995-caps`, [Shoda, Mischel, and Wright (1994)](https://pubmed.ncbi.nlm.nih.gov/7965613/) |
 | Dysregulation is disrupted access | `dysregulation`, `access-systems`, `physiological-access`, `psychological-access`, `executive-access-under-stress`, `generated-outputs-model` | After interrupted sleep and a crowded school morning, Mara speaks sharply to her five-year-old daughter, Ada; the child's reaction prompts Mara to consider the gap between what she knows and what she could use in the moment | `src-arnsten-2009-stress-prefrontal`, `src-cao-2025-sleep-loss-executive-function`, [Palmer et al. (2024)](https://pubmed.ncbi.nlm.nih.gov/38127505/) |
-| The difference between being understood and being held | `affective-dwell-capacity`, `temperament-under-pressure`, `generated-outputs-model` | An unnamed fictional couple discusses a difficult meeting; explanation and advice close the conversation before the speaker has finished; an invitation to continue offers a possible repair | `src-architecture-being-human`, [Laurenceau, Barrett, and Rovine (2005)](https://pubmed.ncbi.nlm.nih.gov/15982109/) |
+| The difference between being understood and being held | `affective-dwell-capacity`, `temperament-under-pressure`, `generated-outputs-model` | An unnamed fictional couple discusses a difficult meeting; explanation and advice close the conversation before the speaker has finished; an invitation to continue offers a possible repair | `src-architecture-being-human`, [Strauss et al. (2016)](https://pubmed.ncbi.nlm.nih.gov/27267346/), [Itzchakov et al. (2023)](https://doi.org/10.1177/01461672221100369) |
 | Why the same person is calm at brunch and panicked in a status meeting | Context activation, CAPS if-then signatures | "I am not inconsistent; my contexts have different meanings." | `src-mischel-shoda-1995-caps`, `psychology-pipeline` |
 | The apology draft that became a novel | People-pleasing, relatedness, esteem, suppression | Slack/email repair spiral after perceived disapproval | `src-young-2003-schema-therapy`, `src-lazarus-folkman-1984-coping`, `src-gross-john-2003-erq` |
 | When "just make a decision" makes it harder | Decision style, risk aversion, uncertainty tolerance | Restaurant choice, job offer, budget, roadmap decision | `src-scott-bruce-1995-gdms`, DOSPERT/GDMS instrument graph |
@@ -155,11 +155,26 @@ Source-reviewed 2026-11-14 against corpus snapshot
 - `concepts/being-human/emotional-translation-style.md` was checked for
   conceptual boundaries but is not taught as another concept. Its autonomic
   claims are not used in the essay.
-- `src-laurenceau-2005-intimacy-marriage`: Laurenceau, Barrett, and Rovine
-  (2005), DOI `10.1037/0893-3200.19.2.314`, PMID `15982109`. Verified
-  against the PubMed abstract. The 96-couple, 42-day diary study supports
-  associations among disclosure, perceived responsiveness, and intimacy.
-  It does not test GSP or demonstrate causation from a listening script.
+- `src-strauss-2016-compassion-definition`: Strauss et al. (2016), DOI
+  `10.1016/j.cpr.2016.05.004`, PMID `27267346`. Definition and measure review;
+  proposed compassion components include tolerating the discomfort evoked by
+  another person's suffering while remaining open to them. The review found
+  weaknesses in the nine measures examined. This offers a conceptual
+  connection, not causal evidence for GSP or a validated dwell measure.
+- `src-itzchakov-2023-listening-loneliness`: Itzchakov, Weinstein, Saluk,
+  and Amar (2023; first online 2022), DOI `10.1177/01461672221100369`.
+  Publisher abstract and methods overview checked. Five experiments
+  (total N = 1,643) manipulated listening quality in actual and imagined
+  conversations about past rejection. High-quality listening reduced state
+  loneliness relative to ordinary listening. This supports a specific
+  listener-behavior effect in those settings, not a claim about chronic
+  loneliness, advice versus presence generally, the listener's distress
+  tolerance, or validation of Affective Dwell Capacity.
+
+The compassion review and listening experiments form the final research
+spine. They replace the earlier observational intimacy source with a closer
+conceptual connection and experimental evidence about a speaker outcome.
+No Gottman bid-for-connection material is included.
 
 Illustrative pathway:
 

@@ -11,7 +11,8 @@ description: "An ordinary conversation explores Affective Dwell Capacity in Gene
 source_issue: "https://github.com/LaceyPsych/laceypsych.github.io/issues/31"
 source_ids:
   - src-architecture-being-human
-  - src-laurenceau-2005-intimacy-marriage
+  - src-strauss-2016-compassion-definition
+  - src-itzchakov-2023-listening-loneliness
 corpus_snapshot: "5fa0800119ec4c227a2618c83b0663f35ae99089"
 source_constructs:
   - affective-dwell-capacity
@@ -167,25 +168,39 @@ another task someone must perform perfectly before receiving care.
 
 ## What Research Adds
 
-GSP's Affective Dwell Capacity is a theoretical formulation. Related
-relationship research offers a narrower point of contact, rather than
-validation of this construct.
+GSP's Affective Dwell Capacity brings a particular question to the dinner
+conversation: can the listener stay emotionally present while the feeling
+is unresolved? Research on compassion and listening helps explain why that
+question matters.
 
-In a [daily-diary study of 96 married couples](https://pubmed.ncbi.nlm.nih.gov/15982109/),
-Laurenceau, Barrett, and Rovine examined disclosure, perceived partner
-responsiveness, and intimacy over 42 days. Their findings linked disclosure
-and perceived responsiveness with the experience of intimacy. This was an
-observational study; it cannot establish that a particular listening
-response causes closeness.
+In a [review of compassion definitions and measures](https://pubmed.ncbi.nlm.nih.gov/27267346/),
+Strauss and colleagues proposed that compassion includes tolerating the
+uncomfortable feelings another person's suffering can stir in us. That
+leaves room to remain open to the person, alongside recognizing their
+suffering and wanting to help. The review also found substantial weaknesses
+in existing measures, so this was a proposed account of compassion rather
+than a settled model.
 
-The connection to this essay is limited but useful: what someone shares
-and how they experience their partner's response both belong in an account
-of intimacy. The study does not establish Affective Dwell Capacity as a
-measured trait, show that advice is generally harmful, or tell us what
-happened inside the fictional dinner conversation.
+The connection to Affective Dwell Capacity is close: caring can involve
+bearing some discomfort without making its immediate removal the condition
+for staying engaged. In our fictional conversation, the listener's wish to
+help may be sincere even while their hurry toward a plan leaves the speaker
+with little room to continue.
 
-GSP uses its own lens to ask how a listener's response is generated while
-another person's emotion remains unresolved.
+There is also experimental evidence about what attentive listening can do
+for the speaker. In [five experiments involving 1,643 participants](https://doi.org/10.1177/01461672221100369),
+Itzchakov and colleagues varied listening quality in actual and imagined
+conversations about past social rejection. Across the studies, listening
+that conveyed attention, understanding, and positive intentions reduced
+speakers' immediate feelings of loneliness compared with ordinary listening.
+
+Those findings support the value of being listened to in that setting.
+They do not show that advice is generally harmful or that a listener must
+remain available indefinitely. The experiments did not measure the
+listener's ability to tolerate unresolved emotion. Neither paper validates
+Affective Dwell Capacity as a distinct GSP construct. Together, they offer
+a conceptual connection to the listener's task and experimental support
+for a possible benefit to the person sharing.
 
 ## Presence Has Boundaries
 
@@ -255,9 +270,15 @@ remaining in an unsafe situation.
   Framework definition and placement within temperament under pressure.
   The corpus's internal status and confidence labels do not establish
   independent scientific validation.
-- Laurenceau, J.-P., Barrett, L. F., & Rovine, M. J. (2005).
-  [The interpersonal process model of intimacy in marriage: A daily-diary
-  and multilevel modeling approach](https://pubmed.ncbi.nlm.nih.gov/15982109/).
-  *Journal of Family Psychology*, 19(2), 314–323.
-  Research on disclosure, perceived partner responsiveness, and intimacy;
-  not a test of GSP's Affective Dwell Capacity.
+- Strauss, C., Lever Taylor, B., Gu, J., Kuyken, W., Baer, R., Jones, F.,
+  & Cavanagh, K. (2016). [What is compassion and how can we measure it?
+  A review of definitions and measures](https://pubmed.ncbi.nlm.nih.gov/27267346/).
+  *Clinical Psychology Review*, 47, 15–27. Proposed components include
+  tolerating discomfort while remaining open to a suffering person; the
+  review identifies limitations in existing compassion measures.
+- Itzchakov, G., Weinstein, N., Saluk, D., & Amar, M. (2023).
+  [Connection heals wounds: Feeling listened to reduces speakers' loneliness
+  following a social rejection disclosure](https://doi.org/10.1177/01461672221100369).
+  *Personality and Social Psychology Bulletin*, 49(8), 1273–1294.
+  Five experiments examine listening quality and immediate loneliness in
+  actual and imagined disclosure settings; not a test of GSP's construct.
