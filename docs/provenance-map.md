@@ -12,7 +12,7 @@ themes. It is an editorial aid, not a public taxonomy.
 | Needs are not a staircase | `need-conflict`, `dominant-need`, `secondary-need`, `need-accessibility`, `goal-conflict`, `constraint-architecture`, `context-activation`, `generated-outputs-model` | Theo accepts a promotion he genuinely wanted, then goes quiet for a week, because growth and recovery are both active, only one has language, and the constraint field makes refusal expensive | `src-maslow-1943-theory-human-motivation`, `src-bridgman-2019-maslow-pyramid`, `src-wahba-bridwell-1976-maslow-reconsidered`, `src-tay-diener-2011-needs-swb`, `src-deci-ryan-2000-sdt`, `src-emmons-king-1988-striving-conflict`, `src-kruglanski-2002-goal-systems`, `src-lazarus-folkman-1984-coping`, `src-scherer-2001-appraisal`, `src-mischel-shoda-1995-caps` |
 | Context activates the person | `context-activation`, `domain-specific-selfhood`, `context-dependent-contradiction`, `psychological-access`, `generated-outputs-model` | Maya can pause and answer plainly with trusted colleagues, then overexplains and agrees to a family plan she does not want; each setting changes what feels costly and accessible | `src-mischel-shoda-1995-caps`, [Shoda, Mischel, and Wright (1994)](https://pubmed.ncbi.nlm.nih.gov/7965613/) |
 | Dysregulation is disrupted access | `dysregulation`, `access-systems`, `physiological-access`, `psychological-access`, `executive-access-under-stress`, `generated-outputs-model` | After interrupted sleep and a crowded school morning, Mara speaks sharply to her five-year-old daughter, Ada; the child's reaction prompts Mara to consider the gap between what she knows and what she could use in the moment | `src-arnsten-2009-stress-prefrontal`, `src-cao-2025-sleep-loss-executive-function`, [Palmer et al. (2024)](https://pubmed.ncbi.nlm.nih.gov/38127505/) |
-| The difference between being understood and being held | `affective-dwell-capacity`, `temperament-under-pressure`, `generated-outputs-model` | An unnamed fictional couple discusses a difficult meeting; explanation and advice close the conversation before the speaker has finished; an invitation to continue offers a possible repair | `src-architecture-being-human`, [Strauss et al. (2016)](https://pubmed.ncbi.nlm.nih.gov/27267346/), [Itzchakov et al. (2023)](https://doi.org/10.1177/01461672221100369) |
+| The difference between being understood and being held | `affective-dwell-capacity`, `temperament-under-pressure`, `generated-outputs-model` | Rowan and Alex, a fictional couple, discuss a difficult meeting; explanation and advice close the conversation before the speaker has finished; an invitation to continue offers a possible repair | `src-architecture-being-human`, [Strauss et al. (2016)](https://pubmed.ncbi.nlm.nih.gov/27267346/), [Itzchakov et al. (2023)](https://doi.org/10.1177/01461672221100369) |
 | Why the same person is calm at brunch and panicked in a status meeting | Context activation, CAPS if-then signatures | "I am not inconsistent; my contexts have different meanings." | `src-mischel-shoda-1995-caps`, `psychology-pipeline` |
 | The apology draft that became a novel | People-pleasing, relatedness, esteem, suppression | Slack/email repair spiral after perceived disapproval | `src-young-2003-schema-therapy`, `src-lazarus-folkman-1984-coping`, `src-gross-john-2003-erq` |
 | When "just make a decision" makes it harder | Decision style, risk aversion, uncertainty tolerance | Restaurant choice, job offer, budget, roadmap decision | `src-scott-bruce-1995-gdms`, DOSPERT/GDMS instrument graph |
@@ -141,7 +141,7 @@ Primary concept: **Affective Dwell Capacity**. Emotional holding remains a
 plain-language relational description; the essay does not introduce a separate
 measure of it or expand into Emotional Translation Style.
 
-Source-reviewed 2026-11-14 against corpus snapshot
+Source-reviewed 2026-11-15 against the current corpus snapshot
 `5fa0800119ec4c227a2618c83b0663f35ae99089`:
 
 - `concepts/being-human/affective-dwell-capacity.md`: ability to remain
@@ -185,7 +185,7 @@ Illustrative pathway:
 > may discourage later disclosure; asking whether the speaker was finished
 > opens a possible repair
 
-The scenario is authored fiction, not simulator output or a disguised private
+Rowan and Alex are authored fiction, not simulator output or a disguised private
 account. No simulator run is needed: the claim is conceptual and relational,
 not a prediction of an individual's behavior. Private source threads named
 in the issue were not accessed or reproduced. The required build-around line
@@ -200,3 +200,27 @@ and listener retain agency and responsibility.
 Review status: pending Lacey's voice, framework, and academic review in the PR.
 The planned URL is not a published URL until merge. Publication and social
 distribution remain unchecked; published-post analytics are unchanged.
+
+### November 15 editorial revision
+
+- Preserved the dinner setting, reasonable interpretation, email suggestion,
+  and both passages singled out in the review. Rowan shares the meeting; Alex
+  responds. These are invented names, added at the author's request.
+- Rechecked the current corpus main SHA and fetched the canonical entry.
+  Snapshot remains `5fa0800119ec4c227a2618c83b0663f35ae99089`. Its explicit
+  relationships are `part_of: temperament-under-pressure` and
+  `modulates: coping-style`. The essay's definition is an accessible
+  paraphrase, not a new canonical definition. No new formal construct or
+  classification is introduced.
+- Distinguished recognizing emotion, explaining it, proposing action, and
+  remaining present with unresolved affect. These are ordinary descriptions
+  of abilities, not a four-part GSP taxonomy.
+- Added Rowan alone after the meeting to show the intrapersonal application.
+  Writing an email can be a considered response; waiting can be avoidance.
+  The outward action cannot establish its psychological function.
+- Centered the influence of tolerating unresolved affect on available coping,
+  preserving the possibility that reasonable advice is welcome and sincere.
+  The ending now invites reflection on one's own affect as well as being
+  with someone else's. Research scope and accountability boundaries remain.
+- Applied the visible review through section 3. The supplied review ends
+  mid-sentence; any continuation remains to be incorporated when received.
