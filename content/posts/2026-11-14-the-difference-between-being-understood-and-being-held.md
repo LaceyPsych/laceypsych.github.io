@@ -59,32 +59,30 @@ Generative Systems Psychology (GSP) names a capacity that matters here:
 present with a feeling that has not resolved, while tolerating the urge to
 fix it, explain it away, control the situation, or leave.
 
+At the table, Alex has offered something useful. Rowan is still hurting.
+What happens if the conversation continues and the feeling remains?
+
 Within GSP, Affective Dwell Capacity belongs to temperament under pressure
-and modulates coping: it concerns how long someone can remain with unresolved affect
-before moving into a response that serves to escape it.
+and influences coping by shaping a person's ability to remain emotionally
+present with unresolved affect, without requiring its immediate explanation,
+control, or resolution.
 
-The central question is: **why can one person remain emotionally present
-with an unresolved experience while another feels compelled to explain,
-fix, control, or move away from it?**
+**What makes unresolved emotion easier for some people to remain with,
+while making explanation, action, or escape more compelling for others?**
 
-The question applies to our own feelings as well as to what happens when
-we encounter someone else's. Rowan has to live with the embarrassment of
-the meeting. Alex has to encounter that embarrassment and whatever it
-brings up in Alex: concern, helplessness, uncertainty about how to help.
-Neither person's experience arrives with a guaranteed way to resolve it.
+That question applies to our own feelings and to what arises when we
+encounter someone else's. Rowan has the embarrassment of the meeting.
+Alex may encounter concern, helplessness, or uncertainty about how to help.
 
-GSP asks how the ability to tolerate that unresolved feeling influences
-which responses become available. A familiar explanation may be easy to
-reach. So may a plan, reassurance, or a change of subject. Staying with a
-feeling can leave room to notice more of it before deciding what to do.
-When the feeling is difficult to bear, an action that promises relief may
+GSP asks how tolerating that unresolved feeling influences which responses
+become available. Explanation, planning, or reassurance may be familiar.
+Staying with the feeling can leave room to notice more before deciding
+what to do. When it is difficult to bear, a response promising relief may
 become more compelling.
 
-That is a possible influence on coping, not a formula for predicting it.
-The presence of advice does not establish escape. Alex may simply believe
-that a useful suggestion is welcome. To understand its function here, we
-would need to know whether Alex can also remain engaged if the suggestion
-is sound and Rowan is still hurting.
+**The presence of advice does not establish escape.** Alex may believe a
+suggestion is welcome. The question is whether Alex can also remain engaged
+if the suggestion is sound and Rowan is still hurting.
 
 ## Recognizing, Explaining, Solving, and Staying
 
@@ -113,52 +111,35 @@ by themselves tell us whether that is possible in a particular moment.
 
 ## Staying With Your Own Unfinished Feeling
 
-The same question could have arisen for Rowan before dinner, with no
-listener in the room.
+The same question could arise for Rowan before dinner, alone after the
+meeting. They can explain what happened and list ways to respond. The
+embarrassment is still there.
 
-Imagine Rowan opening an email draft after the meeting, then closing it.
-They can explain what happened and list several ways to respond. The
-embarrassment is still there. One possibility is to keep revising the
-message because planning makes the feeling briefly easier to bear. Another
-is to tell themselves the presentation never mattered, even though it did.
+Rowan might keep revising an email because planning makes the feeling
+briefly easier to bear. Or tell themselves the presentation never mattered,
+even though it did. They might also notice, "I was excited to share that
+work, and I'm embarrassed that I didn't get to." The disappointment can
+then be part of what Rowan considers while deciding what to do.
 
-Rowan might also be able to notice, "I was excited to share that work, and
-I'm embarrassed that I didn't get to." There may still be a decision to
-make. Staying with the feeling allows the disappointment to be part of
-what Rowan considers, rather than something that has to disappear before
-they can think about the meeting.
-
-Writing the email could itself be a considered response. Waiting could be
-avoidance. We cannot identify the function from the action alone. The
-question is whether Rowan has room to encounter the feeling and consider
-what to do, or feels driven to end the experience as quickly as possible.
-Affective Dwell Capacity does not require prolonging pain or remaining in
-it for its own sake.
+Writing the email could be a considered response. Waiting could be
+avoidance. The action alone cannot establish its function. Affective Dwell
+Capacity concerns room to encounter the feeling while considering a
+response; it does not require prolonging pain for its own sake.
 
 ## What Being Held Means Here
 
 Being held, in this essay, means having company in an experience that has
-not yet become manageable or clear. It need not involve touch. It can
-happen across a kitchen table or on the phone. It might include a question,
-an acknowledgment, a practical act of care, or a silence that leaves room
-for the next sentence.
+not yet become manageable or clear. It need not involve touch. A question,
+a practical act of care, or a silence can leave room for the next sentence.
 
-"What was it like when they moved on?" could have opened a different part
-of Rowan and Alex's dinner conversation.
+"What was it like when they moved on?" could open a different part of Rowan
+and Alex's conversation. So might, "You spent a lot of time getting ready.
+I can hear how much that mattered."
 
-So might, "You spent a lot of time getting ready. I can hear how much that
-mattered."
-
-Neither response tells the speaker what the manager intended. Neither
-requires agreement that the manager was cruel or that the meeting proves
-anything about the speaker's worth. They acknowledge something the person
-has actually brought into the room.
-
-Alex might discover that embarrassment mattered more than the
-interruption. Or that Rowan is angry about a recurring work problem
-and wants help deciding how to address it. Staying present includes being
-willing to learn which experience is happening, rather than fitting it too
-quickly into the explanation we already have.
+Neither response settles what the manager intended. Alex might discover
+that embarrassment mattered more than the interruption, or that Rowan
+wants help addressing a recurring work problem. Staying present includes
+being willing to learn which experience is happening.
 
 **An accurate account of someone's pattern can still miss what they need
 from us in this particular moment.**
@@ -169,117 +150,83 @@ GSP treats behavior as Generated Output: a response emerges through the
 interaction of context, meaning, needs, available capacities, and coping.
 Alex's advice belongs inside that picture too.
 
-Here is one possible reading of the scene. Alex hears about the
-meeting and experiences Rowan's distress as a problem to solve. Caring
-brings a wish to help; helplessness brings pressure to do something useful. Analysis and planning are familiar ways to respond.
-Alex offers an explanation, then a plan. Rowan hears a shift toward
-what to do before having finished saying what happened.
-Rowan shortens their answer and stops sharing.
+One possible pathway begins with Alex experiencing Rowan's distress as a
+problem to solve. Care brings a wish to help; helplessness brings pressure
+to do something useful. Familiar analysis and planning organize the
+response. Rowan hears a shift toward action before having finished saying
+what happened, shortens their answer, and stops sharing.
 
-The silence then becomes feedback. Alex might take it as evidence
-that the advice worked. Rowan might take it as evidence that there
-is little point bringing up the next difficult day. If that interpretation
-repeats, both can become more certain of a pattern neither intended to
-create.
+Silence becomes feedback. Alex might think the advice worked. Rowan might
+think there is little point sharing the next difficult day. Repeated
+interpretations can strengthen a pattern neither intended.
 
-That pathway is an illustration, not a diagnosis of either person. A
-listener might offer advice for many reasons. The speaker might stop
-because they are tired, satisfied, distracted, or ready to move on. We
-cannot read Affective Dwell Capacity from a few sentences or assign a
-person a permanent level from one disappointing evening.
-
-But we can notice a repeated sequence and ask about it: when a feeling
-arrives, how quickly do we move toward getting rid of it? What happens
-to the conversation after we do?
+This illustrates a possibility, not a finding about either character's
+coping. Advice has many possible functions. A short answer might also mean
+satisfaction, fatigue, or readiness to move on. One interaction cannot
+establish a stable temperament or the mechanism behind a response.
 
 ## Understanding Can Become Part of Care
 
-The issue is not whether explanation belongs in a relationship. A careful
-explanation can relieve shame, clarify a misunderstanding, or help someone
-recognize a pattern they want to change. Planning can be an intimate act:
-someone lends attention and effort to a problem that would otherwise be
-carried alone.
+Explanation can relieve shame or clarify a misunderstanding. Planning can
+be an intimate act of lending effort to a problem otherwise carried alone.
+Emotional presence can coexist with both. Affective Dwell Capacity concerns
+whether they remain choices while a feeling is unresolved.
 
-Affective Dwell Capacity concerns whether those responses remain choices,
-rather than becoming the only tolerable way to be near distress.
-
-Imagine the conversation continuing differently. Alex leaves the
-plates where they are and asks about the moment the manager moved on.
-Rowan says they had been excited to share the work. Now they feel
-foolish for having cared so much.
+Imagine Alex leaving the plates where they are and asking about the moment
+the manager moved on. Rowan says they had been excited to share the work.
+Now they feel foolish for having cared so much.
 
 "I didn't realize that was the part that hurt," Alex says.
 
-There is more to understand now. The first explanation was not necessarily
-wrong, but it was incomplete. A few minutes later, Rowan might ask,
-"Do you think I should email?" The same practical suggestion can enter a
-conversation in which the person has had some say in what help means.
+The first explanation may have been right and still incomplete. Later,
+Rowan might ask, "Do you think I should email?" The same practical suggestion
+can enter a conversation in which Rowan has helped shape what support means.
 
-There is no universal waiting period and no correct number of reassuring
-sentences before advice. Some people prefer to think aloud through a plan.
-Some want company while they do something ordinary. Others need quiet or
-space. A question can help, but a menu of support options should not become
-another task someone must perform perfectly before receiving care.
+There is no required waiting period before advice. People may want a plan,
+quiet company, or space. Recognizing, explaining, solving, and staying are
+related processes that can occur together, rather than a hierarchy of
+better and worse responses.
 
 ## What Research Adds
 
 GSP's question about tolerating unresolved emotion has a close connection
-to compassion research. Listening research also examines a possible
-consequence of how someone responds when another person shares pain.
+to compassion research. Listening research examines a possible consequence
+of how someone responds when another person shares pain.
 
 In a [review of compassion definitions and measures](https://pubmed.ncbi.nlm.nih.gov/27267346/),
 Strauss and colleagues proposed that compassion includes tolerating the
-uncomfortable feelings another person's suffering can stir in us. That
-leaves room to remain open to the person, alongside recognizing their
-suffering and wanting to help. The review also found substantial weaknesses
-in existing measures, so this was a proposed account of compassion rather
-than a settled model.
+uncomfortable feelings another person's suffering evokes while remaining
+open to them. The review found weaknesses in existing measures; its account
+was proposed rather than a settled model. It offers a conceptual connection
+to caring without making immediate emotional relief a requirement for
+staying engaged.
 
-The connection to Affective Dwell Capacity is close: caring can involve
-bearing some discomfort without making its immediate removal the condition
-for staying engaged. In our fictional conversation, Alex's wish to
-help may be sincere even if the movement toward a plan leaves Rowan
-with little room to continue.
-
-There is also experimental evidence about what attentive listening can do
-for the speaker. In [five experiments involving 1,643 participants](https://doi.org/10.1177/01461672221100369),
+In [five experiments involving 1,643 participants](https://doi.org/10.1177/01461672221100369),
 Itzchakov and colleagues varied listening quality in actual and imagined
-conversations about past social rejection. Across the studies, listening
-that conveyed attention, understanding, and positive intentions reduced
-speakers' immediate feelings of loneliness compared with ordinary listening.
+conversations about past rejection. Listening that conveyed attention,
+understanding, and positive intentions reduced speakers' immediate
+loneliness compared with ordinary listening.
 
-Those findings support the value of being listened to in that setting.
-They do not show that advice is generally harmful or that a listener must
-remain available indefinitely. The experiments did not measure the
-listener's ability to tolerate unresolved emotion. Neither paper validates
-Affective Dwell Capacity as a distinct GSP construct. Together, they offer
-a conceptual connection to the listener's task and experimental support
-for a possible benefit to the person sharing.
+Those experiments support a benefit to speakers in those settings. They
+did not measure listeners' tolerance of unresolved affect or show that
+advice is generally harmful. Neither paper validates Affective Dwell
+Capacity as a distinct GSP construct.
 
 ## Presence Has Boundaries
 
-Remaining emotionally present does not mean agreeing to every account of
-an event. A listener can acknowledge humiliation without confirming that
-everyone in the meeting intended it. They can care about pain and still
-question a proposed retaliation.
+Presence leaves room for disagreement. Alex can acknowledge humiliation
+without confirming what the manager intended or endorsing retaliation.
+It also has limits: someone may be too tired to listen well or have an
+obligation they cannot postpone. A pause with a clear return and follow-through
+can preserve care. A pause alone does not establish abandonment.
 
-Nor does presence require unlimited availability. Someone may be too tired
-to listen well, have an obligation they cannot postpone, or need to end a
-conversation that has become hurtful. Saying, "I want to hear this, and I
-need twenty minutes to finish what I'm doing," can preserve care if the
-person follows through. A pause does not by itself tell us that someone
-is abandoning us.
+Distress does not entitle a speaker to insult a listener, prevent them from
+leaving, or demand agreement as proof of love. Safety may require distance.
 
-The same responsibility applies to the person seeking support. Distress
-does not entitle someone to insult a listener, prevent them from leaving,
-or demand agreement as proof of love. Being emotionally present can include
-setting a limit. Safety may require distance and outside support.
-
-For the listener, good intentions do not settle the impact of a response.
-"I was only trying to help" can be true and still leave something to repair.
-If a partner repeatedly says they feel hurried past, that is information
-to take seriously. They should not have to offer the perfect explanation
-of their needs before their experience matters.
+Good intentions also leave room for responsibility. "I was only trying to
+help" may be true and still leave something to repair. If Rowan repeatedly
+feels hurried past, Alex has information to take seriously. Rowan need not
+explain their needs perfectly before their experience matters.
 
 ## Returning to the Table
 

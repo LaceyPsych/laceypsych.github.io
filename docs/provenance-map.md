@@ -224,3 +224,30 @@ distribution remain unchecked; published-post analytics are unchanged.
   with someone else's. Research scope and accountability boundaries remain.
 - Applied the visible review through section 3. The supplied review ends
   mid-sentence; any continuation remains to be incorporated when received.
+
+### Final editorial follow-up
+
+Source: [PR #125 editorial follow-up](https://github.com/LaceyPsych/laceypsych.github.io/pull/125#issuecomment-6900537794).
+The complete follow-up was found on PR #125; issue #31 has no comments.
+This supersedes the earlier note about an incomplete supplied review.
+
+- Preserved the approved Rowan/Alex opening without substantive changes.
+- Applied the requested wording about remaining emotionally present without
+  requiring immediate explanation, control, or resolution. This is a public
+  explanatory paraphrase of the existing construct, not a corpus edit or a
+  replacement formal definition. Current main remains the pinned snapshot;
+  the canonical entry explicitly links temperament-under-pressure and
+  coping-style. Its duration/escape implementation language is not presented
+  as an exhaustive account of emotional presence.
+- Used the requested central question about conditions making unresolved
+  emotion easier to remain with or explanation, action, or escape more
+  compelling. It does not assign a mechanism or fixed capacity to Alex.
+- Returned briefly to the table immediately after introducing the concept.
+- Preserved exactly: **The presence of advice does not establish escape.**
+- Retained recognizing, explaining, solving, and staying as related,
+  overlapping processes. Emotional presence can accompany practical action.
+- Retained the intrapersonal example, both characters' boundaries, the
+  generated-output pathway, and research distinctions. Trimmed repetition
+  to fit the 8–10-minute target, rather than adding communication techniques.
+- The complete Hugo draft is submitted in a new PR for final editorial review.
+  The opening is approved; final essay approval and publication remain pending.
